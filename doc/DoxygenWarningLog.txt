@@ -1,0 +1,1 @@
+warning: source /Users/Steven/.viminfo is not a readable file or directory... skipping.

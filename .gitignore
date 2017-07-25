@@ -1,0 +1,10 @@
+# Compiled source files
+*.o
+*.pyc
+*.db
+*.swp
+*._*
+*.DS_Store
+xml/
+latex/
+.git/
