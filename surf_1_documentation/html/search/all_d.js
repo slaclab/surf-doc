@@ -59,6 +59,5 @@ var searchData=
   ['jesdtxreg_2evhd',['JesdTxReg.vhd',['../JesdTxReg_8vhd.html',1,'']]],
   ['jesdtxtest',['JesdTxTest',['../classJesdTxTest.html',1,'']]],
   ['jesdtxtest_2evhd',['JesdTxTest.vhd',['../JesdTxTest_8vhd.html',1,'']]],
-  ['jumbo_5fg',['JUMBO_G',['../classEthMacRx.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacRx.JUMBO_G()'],['../classEthMacRxCsum.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacRxCsum.JUMBO_G()'],['../classEthMacTop.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacTop.JUMBO_G()'],['../classEthMacTx.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacTx.JUMBO_G()'],['../classEthMacTxCsum.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacTxCsum.JUMBO_G()']]],
-  ['jesd204b',['jesd204b',['../group__protocols__jesd204b.html',1,'']]]
+  ['jumbo_5fg',['JUMBO_G',['../classEthMacRx.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacRx.JUMBO_G()'],['../classEthMacRxCsum.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacRxCsum.JUMBO_G()'],['../classEthMacTop.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacTop.JUMBO_G()'],['../classEthMacTx.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacTx.JUMBO_G()'],['../classEthMacTxCsum.html#af3c2b3ea37b9a6acb725bb242dbb570a',1,'EthMacTxCsum.JUMBO_G()']]]
 ];

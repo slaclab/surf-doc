@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['microchip',['Microchip',['../group__devices__Microchip.html',1,'']]],
   ['micron',['Micron',['../group__devices__Micron.html',1,'']]],
   ['m2srst',['m2sRst',['../classAxiLiteAsync_1_1STRUCTURE.html#aa7b3c7579a342e6c0f7d6d2f3362e889',1,'AxiLiteAsync::STRUCTURE']]],
   ['mac_5faddr_5finit_5fc',['MAC_ADDR_INIT_C',['../classGigEthPkg.html#af72760ddb36182c504f3ae864c3f7ec4',1,'GigEthPkg.MAC_ADDR_INIT_C()'],['../classTenGigEthPkg.html#af72760ddb36182c504f3ae864c3f7ec4',1,'TenGigEthPkg.MAC_ADDR_INIT_C()'],['../classXauiPkg.html#af72760ddb36182c504f3ae864c3f7ec4',1,'XauiPkg.MAC_ADDR_INIT_C()']]],

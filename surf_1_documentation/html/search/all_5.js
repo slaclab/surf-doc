@@ -11,7 +11,6 @@ var searchData=
   ['bankflag',['bankFlag',['../classSaciMultiPixelPkg.html#ab7489117f57585d4181eefb5906cf72b',1,'SaciMultiPixelPkg']]],
   ['base',['base',['../group__base.html',1,'']]],
   ['base_5ffifo_5fgraph_2etxt',['base_fifo_graph.txt',['../base__fifo__graph_8txt.html',1,'']]],
-  ['base_5fgeneral_5fgraph_2etxt',['base_general_graph.txt',['../base__general__graph_8txt.html',1,'']]],
   ['base_5fgraph_2etxt',['base_graph.txt',['../base__graph_8txt.html',1,'']]],
   ['base_5fram_5fgraph_2etxt',['base_ram_graph.txt',['../base__ram__graph_8txt.html',1,'']]],
   ['base_5fsync_5fgraph_2etxt',['base_sync_graph.txt',['../base__sync__graph_8txt.html',1,'']]],
@@ -90,6 +89,5 @@ var searchData=
   ['byte_5fwr_5fen_5fg',['BYTE_WR_EN_G',['../classDualPortRam.html#a3ccd28c3760c5ddd434a9aabc40b6f19',1,'DualPortRam.BYTE_WR_EN_G()'],['../classOctalPortRam.html#a3ccd28c3760c5ddd434a9aabc40b6f19',1,'OctalPortRam.BYTE_WR_EN_G()'],['../classQuadPortRam.html#a3ccd28c3760c5ddd434a9aabc40b6f19',1,'QuadPortRam.BYTE_WR_EN_G()'],['../classSimpleDualPortRam.html#a3ccd28c3760c5ddd434a9aabc40b6f19',1,'SimpleDualPortRam.BYTE_WR_EN_G()'],['../classTrueDualPortRam.html#a3ccd28c3760c5ddd434a9aabc40b6f19',1,'TrueDualPortRam.BYTE_WR_EN_G()']]],
   ['bytes',['bytes',['../classAdiConfigSlave_1_1behavioral.html#ab591f4fe7496fe08b192594db0443128',1,'AdiConfigSlave::behavioral']]],
   ['byteswapslv',['byteSwapSlv',['../classJesd204bPkg.html#ac94ae089518e4453dd557c3857daa174',1,'Jesd204bPkg.byteSwapSlv()'],['../class__Jesd204bPkg.html#ac94ae089518e4453dd557c3857daa174',1,'_Jesd204bPkg.byteSwapSlv()']]],
-  ['bytevalid',['byteValid',['../classAdiConfigSlave.html#a51e11e00fd144ba3ad6456f04e0041df',1,'AdiConfigSlave.byteValid()'],['../classAdiConfigSlave_1_1behavioral.html#a434dd34dc09eafc135288a812ddc577e',1,'AdiConfigSlave.behavioral.byteValid()']]],
-  ['bd',['bd',['../group__xilinx__general__microblaze__bd.html',1,'']]]
+  ['bytevalid',['byteValid',['../classAdiConfigSlave.html#a51e11e00fd144ba3ad6456f04e0041df',1,'AdiConfigSlave.byteValid()'],['../classAdiConfigSlave_1_1behavioral.html#a434dd34dc09eafc135288a812ddc577e',1,'AdiConfigSlave.behavioral.byteValid()']]]
 ];

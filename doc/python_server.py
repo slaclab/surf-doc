@@ -10,7 +10,7 @@ class hooks:
     def POST(self):
         data = web.data()
 
-        try:
+		try:
 	        #check the incoming POST matches a github webhook
 	        if data.get('repository') is not None:
 
@@ -30,8 +30,8 @@ class hooks:
 			        subprocess.call(['bash', '/Users/Steven/SLAC/surf/doc/automatically_publish_doxygen.sh', repo_path, doc_path, rel_id, name])
 
 	        return 'OK'
-
-	    except TypeError:
+		
+		except TypeError:
 
 	    	print "Post not valid webhook"
 

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['n25q',['n25q',['../group__devices__Micron__n25q.html',1,'']]],
   ['nack',['nack',['../classI2cPkg.html#aefac627a3fc7355fd936ef0448f0d7ff',1,'I2cPkg']]],
   ['naturalarray',['NaturalArray',['../classStdRtlPkg.html#adbd65b675af8152419adf8266ff4fa05',1,'StdRtlPkg']]],
   ['naturalvectorarray',['NaturalVectorArray',['../classStdRtlPkg.html#a4b04998e5d30c1bce1a0d6dd8a2d57b8',1,'StdRtlPkg']]],

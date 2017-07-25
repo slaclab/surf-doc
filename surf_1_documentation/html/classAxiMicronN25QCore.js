@@ -1,6 +1,6 @@
 var classAxiMicronN25QCore =
 [
-    [ "mapping", "classAxiMicronN25QCore_1_1mapping.html", "classAxiMicronN25QCore_1_1mapping" ],
+    [ "AxiMicronN25QCore.mapping", "classAxiMicronN25QCore_1_1mapping.html", "classAxiMicronN25QCore_1_1mapping" ],
     [ "TPD_G", "classAxiMicronN25QCore.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "MEM_ADDR_MASK_G", "classAxiMicronN25QCore.html#a15a935304c3063e086aeae8a09c9e2a0", null ],
     [ "AXI_CLK_FREQ_G", "classAxiMicronN25QCore.html#a82571368c463a52e90b4676481bb0826", null ],

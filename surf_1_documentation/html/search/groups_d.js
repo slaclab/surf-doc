@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['p30',['p30',['../group__devices__Micron__p30.html',1,'']]],
-  ['protocols',['protocols',['../group__protocols.html',1,'']]],
-  ['pgp',['pgp',['../group__protocols__pgp.html',1,'']]],
-  ['pgp2b',['pgp2b',['../group__protocols__pgp__pgp2b.html',1,'']]]
+  ['sy56040',['sy56040',['../group__devices__Microchip__sy56040.html',1,'']]],
+  ['sfp',['sfp',['../group__devices__transceivers__sfp.html',1,'']]],
+  ['salt',['salt',['../group__protocols__salt.html',1,'']]],
+  ['spi',['spi',['../group__protocols__spi.html',1,'']]],
+  ['ssi',['ssi',['../group__protocols__ssi.html',1,'']]]
 ];

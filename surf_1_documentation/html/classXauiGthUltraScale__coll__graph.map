@@ -1,5 +1,5 @@
 <map id="XauiGthUltraScale" name="XauiGthUltraScale">
-<area shape="rect" id="node2" href="$classEthMacTop.html" title="entity &#160;EthMacCore " alt="" coords="1784,411,1875,437"/>
+<area shape="rect" id="node2" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="1784,411,1875,437"/>
 <area shape="rect" id="node3" href="$classEthMacTxFifo.html" title="EthMacTxFifo" alt="" coords="1625,385,1729,412"/>
 <area shape="rect" id="node4" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2(3)" alt="" coords="1005,411,1144,437"/>
 <area shape="rect" id="node5" href="$classAxiStreamResize.html" title="AxiStreamResize(2)" alt="" coords="763,335,903,361"/>

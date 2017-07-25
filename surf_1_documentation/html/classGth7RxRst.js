@@ -1,6 +1,6 @@
 var classGth7RxRst =
 [
-    [ "RTL", "classGth7RxRst_1_1RTL.html", "classGth7RxRst_1_1RTL" ],
+    [ "Gth7RxRst.RTL", "classGth7RxRst_1_1RTL.html", "classGth7RxRst_1_1RTL" ],
     [ "TPD_G", "classGth7RxRst.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "EXAMPLE_SIMULATION", "classGth7RxRst.html#a7a79ea923cfcd44e4fb9c5c197bbd20d", null ],
     [ "GT_TYPE", "classGth7RxRst.html#a631aa6477fc5adfd3cba528cddf4e3aa", null ],

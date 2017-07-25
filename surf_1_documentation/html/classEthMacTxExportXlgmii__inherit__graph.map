@@ -1,7 +1,7 @@
 <map id="EthMacTxExportXlgmii" name="EthMacTxExportXlgmii">
 <area shape="rect" id="node2" href="$classEthMacTxExport.html" title="EthMacTxExport" alt="" coords="211,233,331,260"/>
 <area shape="rect" id="node3" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="379,233,461,260"/>
-<area shape="rect" id="node4" href="$classEthMacTop.html" title="entity &#160;EthMacCore " alt="" coords="509,233,600,260"/>
+<area shape="rect" id="node4" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="509,233,600,260"/>
 <area shape="rect" id="node5" href="$classGigEthGth7.html" title="GigEthGth7" alt="" coords="687,5,779,32"/>
 <area shape="rect" id="node7" href="$classGigEthGthUltraScale.html" title="GigEthGthUltraScale" alt="" coords="661,56,806,83"/>
 <area shape="rect" id="node9" href="$classGigEthGtp7.html" title="GigEthGtp7" alt="" coords="687,107,779,133"/>
@@ -9,7 +9,7 @@
 <area shape="rect" id="node13" href="$classTenGigEthGth7.html" title="TenGigEthGth7" alt="" coords="676,208,791,235"/>
 <area shape="rect" id="node15" href="$classTenGigEthGthUltraScale.html" title="TenGigEthGthUltraScale" alt="" coords="649,259,818,285"/>
 <area shape="rect" id="node17" href="$classTenGigEthGtx7.html" title="TenGigEthGtx7" alt="" coords="677,309,790,336"/>
-<area shape="rect" id="node19" href="$classXauiGth7.html" title="entity &#160;gth7 " alt="" coords="695,360,772,387"/>
+<area shape="rect" id="node19" href="$classXauiGth7.html" title="XauiGth7" alt="" coords="695,360,772,387"/>
 <area shape="rect" id="node21" href="$classXauiGthUltraScale.html" title="XauiGthUltraScale" alt="" coords="667,411,799,437"/>
 <area shape="rect" id="node23" href="$classXauiGtx7.html" title="XauiGtx7" alt="" coords="695,461,772,488"/>
 <area shape="rect" id="node6" href="$classGigEthGth7Wrapper.html" title="GigEthGth7Wrapper" alt="" coords="906,5,1049,32"/>

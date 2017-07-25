@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 #Doxygen must have been run with GENERATE_XML set to YES
 #There must exist a gaphs folder in the present directory
 #
-#Note: Startpath will need to be changed based on user
+#Command Line ARguments: 1: startpath where library and documentation is housed
 
 
 startpath = sys.argv[1]
@@ -42,7 +42,8 @@ else:
 
 	def check_groups(root):
 	#function to recursively check if a group contains an rtl folder
-	#root is the base folder that is being searched
+	#root is the string corresponding to the base folder that is being searched
+	#iterates through the xml tree to find nodes that inherit from root
 	#returns True if rtl subdirectory found, false otherwise
 
 		contains_rtl = False
@@ -150,6 +151,47 @@ else:
 					inherit_file_name = file_ids[class_to_file[inherit_class]]
 					inherit_file = os.path.join(file_modules[class_to_file[inherit_class]], inherit_file_name)
 					inheritances[file].append(inherit_file)
+
+
+	def replace_groups(name, groups, new_groups):
+		#function to find if a specific string is continaed in an array
+		#and if so, remove it and append it to a new array
+		#name is the string be checked for
+		#modules is a list of strings
+		#new_modules is the list strings are appended to
+		if name in groups:
+			new_groups.append(name)
+			groups.remove(name)
+
+		return new_groups
+
+	#reorder module listing to be: 
+		#base
+		#general
+		#sync
+		#ram
+		#fifo
+		#axi
+		#protocols 
+		#ethernet 
+		#devices
+		
+	new_modules =[]
+
+	new_modules = replace_groups("base", modules, new_modules)
+	new_modules = replace_groups("general", modules, new_modules)
+	new_modules = replace_groups("sync", modules, new_modules)
+	new_modules = replace_groups("ram", modules, new_modules)
+	new_modules = replace_groups("fifo", modules, new_modules)
+	new_modules = replace_groups("axi", modules, new_modules)
+	new_modules = replace_groups("protocols", modules, new_modules)
+	new_modules = replace_groups("ethernet", modules, new_modules)
+	new_modules = replace_groups("devices", modules, new_modules)
+
+	for group in modules:
+		new_modules = replace_groups(group, modules, new_modules)
+	
+	modules = new_modules
 
 
 	#create modules

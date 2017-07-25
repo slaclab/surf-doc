@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['general',['general',['../group__base__general.html',1,'']]],
   ['general',['general',['../group__devices__AnalogDevices__general.html',1,'']]],
   ['gigethcore',['GigEthCore',['../group__ethernet__GigEthCore.html',1,'']]],
   ['gth7',['gth7',['../group__ethernet__GigEthCore__gth7.html',1,'']]],
@@ -8,11 +7,9 @@ var searchData=
   ['gtp7',['gtp7',['../group__ethernet__GigEthCore__gtp7.html',1,'']]],
   ['gtx7',['gtx7',['../group__ethernet__GigEthCore__gtx7.html',1,'']]],
   ['gth7',['gth7',['../group__ethernet__TenGigEthCore__gth7.html',1,'']]],
-  ['gthultrascale',['gthUltraScale',['../group__ethernet__TenGigEthCore__gthUltraScale.html',1,'']]],
   ['gtx7',['gtx7',['../group__ethernet__TenGigEthCore__gtx7.html',1,'']]],
   ['gth7',['gth7',['../group__ethernet__XauiCore__gth7.html',1,'']]],
   ['gthultrascale',['gthUltraScale',['../group__ethernet__XauiCore__gthUltraScale.html',1,'']]],
-  ['gtx7',['gtx7',['../group__ethernet__XauiCore__gtx7.html',1,'']]],
   ['g_5fclk_5frst',['g_clk_rst',['../classGth7RecClkMonitor_1_1RTL.html#a736d1b56fec0de0306fa7d842b490a80',1,'Gth7RecClkMonitor.RTL.g_clk_rst()'],['../classGtp7RecClkMonitor_1_1RTL.html#a736d1b56fec0de0306fa7d842b490a80',1,'Gtp7RecClkMonitor.RTL.g_clk_rst()'],['../classGtx7RecClkMonitor_1_1RTL.html#a736d1b56fec0de0306fa7d842b490a80',1,'Gtx7RecClkMonitor.RTL.g_clk_rst()']]],
   ['g_5fclk_5frst_5fmeta',['g_clk_rst_meta',['../classGth7RecClkMonitor_1_1RTL.html#a7cce0f4b6aa2b17f5a5ac25d86757f9e',1,'Gth7RecClkMonitor.RTL.g_clk_rst_meta()'],['../classGtp7RecClkMonitor_1_1RTL.html#a7cce0f4b6aa2b17f5a5ac25d86757f9e',1,'Gtp7RecClkMonitor.RTL.g_clk_rst_meta()'],['../classGtx7RecClkMonitor_1_1RTL.html#a7cce0f4b6aa2b17f5a5ac25d86757f9e',1,'Gtx7RecClkMonitor.RTL.g_clk_rst_meta()']]],
   ['g_5fclk_5frst_5fsync',['g_clk_rst_sync',['../classGth7RecClkMonitor_1_1RTL.html#ad2b2b4f6b4711e169d04a88cf3fe19d3',1,'Gth7RecClkMonitor.RTL.g_clk_rst_sync()'],['../classGtp7RecClkMonitor_1_1RTL.html#ad2b2b4f6b4711e169d04a88cf3fe19d3',1,'Gtp7RecClkMonitor.RTL.g_clk_rst_sync()'],['../classGtx7RecClkMonitor_1_1RTL.html#ad2b2b4f6b4711e169d04a88cf3fe19d3',1,'Gtx7RecClkMonitor.RTL.g_clk_rst_sync()']]],
@@ -329,19 +326,8 @@ var searchData=
   ['gtx7txmanualphasealigner_2evhd',['Gtx7TxManualPhaseAligner.vhd',['../Gtx7TxManualPhaseAligner_8vhd.html',1,'']]],
   ['gtx7txrst',['Gtx7TxRst',['../classGtx7TxRst.html',1,'']]],
   ['gtx7txrst_2evhd',['Gtx7TxRst.vhd',['../Gtx7TxRst_8vhd.html',1,'']]],
-  ['glink',['glink',['../group__protocols__glink.html',1,'']]],
   ['gtp7',['gtp7',['../group__protocols__glink__gtp7.html',1,'']]],
   ['gtx7',['gtx7',['../group__protocols__glink__gtx7.html',1,'']]],
-  ['gth7',['gth7',['../group__protocols__pgp__pgp2b__gth7.html',1,'']]],
-  ['gthultrascale',['gthUltraScale',['../group__protocols__pgp__pgp2b__gthUltraScale.html',1,'']]],
-  ['gtp7',['gtp7',['../group__protocols__pgp__pgp2b__gtp7.html',1,'']]],
-  ['gtx7',['gtx7',['../group__protocols__pgp__pgp2b__gtx7.html',1,'']]],
-  ['general',['general',['../group__xilinx__7Series__general.html',1,'']]],
-  ['gth7',['gth7',['../group__xilinx__7Series__gth7.html',1,'']]],
-  ['gtp7',['gtp7',['../group__xilinx__7Series__gtp7.html',1,'']]],
-  ['gtx7',['gtx7',['../group__xilinx__7Series__gtx7.html',1,'']]],
   ['general',['general',['../group__xilinx__general.html',1,'']]],
-  ['general',['general',['../group__xilinx__UltraScale__general.html',1,'']]],
-  ['gthus',['gthUs',['../group__xilinx__UltraScale__gthUs.html',1,'']]],
   ['gtp',['gtp',['../group__xilinx__Virtex5__gtp.html',1,'']]]
 ];

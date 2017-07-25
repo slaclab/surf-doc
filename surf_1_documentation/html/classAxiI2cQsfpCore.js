@@ -1,6 +1,6 @@
 var classAxiI2cQsfpCore =
 [
-    [ "mapping", "classAxiI2cQsfpCore_1_1mapping.html", "classAxiI2cQsfpCore_1_1mapping" ],
+    [ "AxiI2cQsfpCore.mapping", "classAxiI2cQsfpCore_1_1mapping.html", "classAxiI2cQsfpCore_1_1mapping" ],
     [ "TPD_G", "classAxiI2cQsfpCore.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "AXI_CLK_FREQ_G", "classAxiI2cQsfpCore.html#a82571368c463a52e90b4676481bb0826", null ],
     [ "I2C_SCL_FREQ_G", "classAxiI2cQsfpCore.html#a67315ea2dece0a3d7cbdd3b307f1647d", null ],

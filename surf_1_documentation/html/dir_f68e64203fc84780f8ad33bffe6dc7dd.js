@@ -23,7 +23,6 @@ var dir_f68e64203fc84780f8ad33bffe6dc7dd =
       [ "EthMacRxShift.mapping", "classEthMacRxShift_1_1mapping.html", "classEthMacRxShift_1_1mapping" ]
     ] ],
     [ "EthMacTop.vhd", "EthMacTop_8vhd.html", [
-      [ "EthMacTop", "classEthMacTop.html", "classEthMacTop" ],
       [ "EthMacTop.mapping", "classEthMacTop_1_1mapping.html", "classEthMacTop_1_1mapping" ]
     ] ],
     [ "EthMacTx.vhd", "EthMacTx_8vhd.html", [

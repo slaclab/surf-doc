@@ -1,6 +1,6 @@
 var classGthUltraScaleQuadPll =
 [
-    [ "mapping", "classGthUltraScaleQuadPll_1_1mapping.html", "classGthUltraScaleQuadPll_1_1mapping" ],
+    [ "GthUltraScaleQuadPll.mapping", "classGthUltraScaleQuadPll_1_1mapping.html", "classGthUltraScaleQuadPll_1_1mapping" ],
     [ "TPD_G", "classGthUltraScaleQuadPll.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "SIM_RESET_SPEEDUP_G", "classGthUltraScaleQuadPll.html#ac9d3747b9ca9b91a086a26a9a5be3ea1", null ],
     [ "SIM_VERSION_G", "classGthUltraScaleQuadPll.html#ae4741815bc6292a5e6268678aa9a1d75", null ],

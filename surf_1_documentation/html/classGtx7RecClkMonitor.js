@@ -1,6 +1,6 @@
 var classGtx7RecClkMonitor =
 [
-    [ "RTL", "classGtx7RecClkMonitor_1_1RTL.html", "classGtx7RecClkMonitor_1_1RTL" ],
+    [ "Gtx7RecClkMonitor.RTL", "classGtx7RecClkMonitor_1_1RTL.html", "classGtx7RecClkMonitor_1_1RTL" ],
     [ "COUNTER_UPPER_VALUE", "classGtx7RecClkMonitor.html#acf31536f4a531f52c03aa67e985fd915", null ],
     [ "GCLK_COUNTER_UPPER_VALUE", "classGtx7RecClkMonitor.html#a04ead8b9d85efa82a17d25cbfc245106", null ],
     [ "CLOCK_PULSES", "classGtx7RecClkMonitor.html#a56bacebabe9ba0a3a3628c5f8b246638", null ],

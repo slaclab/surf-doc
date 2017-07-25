@@ -1,6 +1,6 @@
 var classAxiAds42lb69Pll =
 [
-    [ "mapping", "classAxiAds42lb69Pll_1_1mapping.html", "classAxiAds42lb69Pll_1_1mapping" ],
+    [ "AxiAds42lb69Pll.mapping", "classAxiAds42lb69Pll_1_1mapping.html", "classAxiAds42lb69Pll_1_1mapping" ],
     [ "TPD_G", "classAxiAds42lb69Pll.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "USE_PLL_G", "classAxiAds42lb69Pll.html#abf393626eeecc7d6b03982434995a9cf", null ],
     [ "ADC_CLK_FREQ_G", "classAxiAds42lb69Pll.html#a32856a8caa5557f3b267be667b1c90da", null ],

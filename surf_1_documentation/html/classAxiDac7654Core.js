@@ -1,6 +1,6 @@
 var classAxiDac7654Core =
 [
-    [ "mapping", "classAxiDac7654Core_1_1mapping.html", "classAxiDac7654Core_1_1mapping" ],
+    [ "AxiDac7654Core.mapping", "classAxiDac7654Core_1_1mapping.html", "classAxiDac7654Core_1_1mapping" ],
     [ "TPD_G", "classAxiDac7654Core.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "AXI_CLK_FREQ_G", "classAxiDac7654Core.html#a1de46f5dc5602d7d39c5786a1e156704", null ],
     [ "STATUS_CNT_WIDTH_G", "classAxiDac7654Core.html#a88ffac2ab61bb803af9237ba80978c17", null ],

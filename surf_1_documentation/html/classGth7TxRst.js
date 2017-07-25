@@ -1,6 +1,6 @@
 var classGth7TxRst =
 [
-    [ "RTL", "classGth7TxRst_1_1RTL.html", "classGth7TxRst_1_1RTL" ],
+    [ "Gth7TxRst.RTL", "classGth7TxRst_1_1RTL.html", "classGth7TxRst_1_1RTL" ],
     [ "TPD_G", "classGth7TxRst.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "GT_TYPE", "classGth7TxRst.html#a631aa6477fc5adfd3cba528cddf4e3aa", null ],
     [ "STABLE_CLOCK_PERIOD", "classGth7TxRst.html#a8cb397c6d496f9b081d34b2633e8cc73", null ],

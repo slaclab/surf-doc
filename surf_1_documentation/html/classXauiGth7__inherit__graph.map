@@ -1,6 +1,6 @@
 <map id="XauiGth7" name="XauiGth7">
 <area shape="rect" id="node49" href="$classXauiGth7Wrapper.html" title="XauiGth7Wrapper" alt="" coords="1683,777,1813,804"/>
-<area shape="rect" id="node2" href="$classEthMacTop.html" title="entity &#160;EthMacCore " alt="" coords="1232,461,1323,488"/>
+<area shape="rect" id="node2" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="1232,461,1323,488"/>
 <area shape="rect" id="node3" href="$classEthMacTxFifo.html" title="EthMacTxFifo" alt="" coords="993,436,1097,463"/>
 <area shape="rect" id="node4" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2(3)" alt="" coords="308,385,447,412"/>
 <area shape="rect" id="node5" href="$classAxiStreamResize.html" title="AxiStreamResize(2)" alt="" coords="115,436,255,463"/>

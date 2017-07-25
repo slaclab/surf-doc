@@ -10,7 +10,7 @@
 <area shape="rect" id="node8" href="$classSynchronizer.html" title="Synchronizer(2)" alt="" coords="793,208,909,235"/>
 <area shape="rect" id="node44" href="$classTenGigEthRst.html" title="TenGigEthRst" alt="" coords="1185,385,1290,412"/>
 <area shape="rect" id="node9" href="$classSimpleDualPortRam.html" title="SimpleDualPortRam" alt="" coords="779,56,922,83"/>
-<area shape="rect" id="node10" href="$classEthMacTop.html" title="entity &#160;EthMacCore " alt="" coords="1192,588,1283,615"/>
+<area shape="rect" id="node10" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="1192,588,1283,615"/>
 <area shape="rect" id="node11" href="$classEthMacTxFifo.html" title="EthMacTxFifo" alt="" coords="1017,664,1121,691"/>
 <area shape="rect" id="node13" href="$classAxiStreamResize.html" title="AxiStreamResize(2)" alt="" coords="115,563,255,589"/>
 <area shape="rect" id="node14" href="$classFifoCascade.html" title="FifoCascade(2)" alt="" coords="129,664,242,691"/>

@@ -19,7 +19,7 @@
 <area shape="rect" id="node18" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="637,411,768,437"/>
 <area shape="rect" id="node19" href="$classCrc32Parallel.html" title="Crc32Parallel" alt="" coords="831,385,934,412"/>
 <area shape="rect" id="node21" href="$classEthMacRx.html" title="EthMacRx" alt="" coords="1361,360,1445,387"/>
-<area shape="rect" id="node22" href="$classEthMacTop.html" title="entity &#160;EthMacCore " alt="" coords="1493,360,1584,387"/>
+<area shape="rect" id="node22" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="1493,360,1584,387"/>
 <area shape="rect" id="node23" href="$classGigEthGth7.html" title="GigEthGth7" alt="" coords="1671,132,1763,159"/>
 <area shape="rect" id="node25" href="$classGigEthGthUltraScale.html" title="GigEthGthUltraScale" alt="" coords="1645,183,1790,209"/>
 <area shape="rect" id="node27" href="$classGigEthGtp7.html" title="GigEthGtp7" alt="" coords="1671,233,1763,260"/>
@@ -27,7 +27,7 @@
 <area shape="rect" id="node31" href="$classTenGigEthGth7.html" title="TenGigEthGth7" alt="" coords="1660,335,1775,361"/>
 <area shape="rect" id="node33" href="$classTenGigEthGthUltraScale.html" title="TenGigEthGthUltraScale" alt="" coords="1633,385,1802,412"/>
 <area shape="rect" id="node35" href="$classTenGigEthGtx7.html" title="TenGigEthGtx7" alt="" coords="1661,436,1774,463"/>
-<area shape="rect" id="node37" href="$classXauiGth7.html" title="entity &#160;gth7 " alt="" coords="1679,487,1756,513"/>
+<area shape="rect" id="node37" href="$classXauiGth7.html" title="XauiGth7" alt="" coords="1679,487,1756,513"/>
 <area shape="rect" id="node39" href="$classXauiGthUltraScale.html" title="XauiGthUltraScale" alt="" coords="1651,537,1783,564"/>
 <area shape="rect" id="node41" href="$classXauiGtx7.html" title="XauiGtx7" alt="" coords="1679,588,1756,615"/>
 <area shape="rect" id="node24" href="$classGigEthGth7Wrapper.html" title="GigEthGth7Wrapper" alt="" coords="1890,132,2033,159"/>

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['n25q',['n25q',['../group__devices__Micron__n25q.html',1,'']]]
+  ['ram',['ram',['../group__base__ram.html',1,'']]],
+  ['rssi',['rssi',['../group__protocols__rssi.html',1,'']]]
 ];

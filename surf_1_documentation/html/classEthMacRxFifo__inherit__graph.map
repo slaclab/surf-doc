@@ -1,5 +1,5 @@
 <map id="EthMacRxFifo" name="EthMacRxFifo">
-<area shape="rect" id="node24" href="$classEthMacTop.html" title="entity &#160;EthMacCore " alt="" coords="1333,284,1424,311"/>
+<area shape="rect" id="node24" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="1333,284,1424,311"/>
 <area shape="rect" id="node2" href="$classSsiFifo.html" title="SsiFifo(3)" alt="" coords="1051,284,1130,311"/>
 <area shape="rect" id="node3" href="$classSsiIbFrameFilter.html" title="SsiIbFrameFilter" alt="" coords="879,208,999,235"/>
 <area shape="rect" id="node4" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2" alt="" coords="877,259,1000,285"/>
@@ -29,7 +29,7 @@
 <area shape="rect" id="node33" href="$classTenGigEthGth7.html" title="TenGigEthGth7" alt="" coords="1500,259,1615,285"/>
 <area shape="rect" id="node35" href="$classTenGigEthGthUltraScale.html" title="TenGigEthGthUltraScale" alt="" coords="1473,309,1642,336"/>
 <area shape="rect" id="node37" href="$classTenGigEthGtx7.html" title="TenGigEthGtx7" alt="" coords="1501,360,1614,387"/>
-<area shape="rect" id="node39" href="$classXauiGth7.html" title="entity &#160;gth7 " alt="" coords="1519,411,1596,437"/>
+<area shape="rect" id="node39" href="$classXauiGth7.html" title="XauiGth7" alt="" coords="1519,411,1596,437"/>
 <area shape="rect" id="node41" href="$classXauiGthUltraScale.html" title="XauiGthUltraScale" alt="" coords="1491,461,1623,488"/>
 <area shape="rect" id="node43" href="$classXauiGtx7.html" title="XauiGtx7" alt="" coords="1519,512,1596,539"/>
 <area shape="rect" id="node26" href="$classGigEthGth7Wrapper.html" title="GigEthGth7Wrapper" alt="" coords="1730,56,1873,83"/>

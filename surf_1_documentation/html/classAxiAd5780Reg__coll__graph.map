@@ -1,5 +1,5 @@
 <map id="AxiAd5780Reg" name="AxiAd5780Reg">
-<area shape="rect" id="node2" href="$classSyncTrigRate.html" title="entity &#160;sync " alt="" coords="745,120,847,147"/>
+<area shape="rect" id="node2" href="$classSyncTrigRate.html" title="SyncTrigRate" alt="" coords="745,120,847,147"/>
 <area shape="rect" id="node3" href="$classSynchronizerOneShot.html" title="SynchronizerOneShot" alt="" coords="357,56,509,83"/>
 <area shape="rect" id="node4" href="$classRstSync.html" title="RstSync" alt="" coords="196,5,268,32"/>
 <area shape="rect" id="node5" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="6,56,106,83"/>

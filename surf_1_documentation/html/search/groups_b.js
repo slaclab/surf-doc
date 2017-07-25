@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['microchip',['Microchip',['../group__devices__Microchip.html',1,'']]],
-  ['micron',['Micron',['../group__devices__Micron.html',1,'']]],
-  ['microblaze',['microblaze',['../group__xilinx__general__microblaze.html',1,'']]]
+  ['p30',['p30',['../group__devices__Micron__p30.html',1,'']]],
+  ['protocols',['protocols',['../group__protocols.html',1,'']]],
+  ['pgp2b',['pgp2b',['../group__protocols__pgp__pgp2b.html',1,'']]]
 ];

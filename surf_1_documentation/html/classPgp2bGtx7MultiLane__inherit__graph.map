@@ -19,7 +19,7 @@
 <area shape="rect" id="node15" href="$classGtx7Core.html" title="Gtx7Core" alt="" coords="650,157,729,184"/>
 <area shape="rect" id="node16" href="$classGtx7RxRst.html" title="Gtx7RxRst" alt="" coords="450,56,537,83"/>
 <area shape="rect" id="node17" href="$classSynchronizer.html" title="Synchronizer(8)" alt="" coords="211,56,327,83"/>
-<area shape="rect" id="node24" href="$classGtx7TxRst.html" title="entity &#160;gtx7 " alt="" coords="451,107,536,133"/>
+<area shape="rect" id="node24" href="$classGtx7TxRst.html" title="Gtx7TxRst" alt="" coords="451,107,536,133"/>
 <area shape="rect" id="node26" href="$classGtx7TxManualPhaseAligner.html" title="Gtx7TxManualPhaseAligner" alt="" coords="399,157,587,184"/>
 <area shape="rect" id="node28" href="$classAxiLiteAsync.html" title="AxiLiteAsync" alt="" coords="640,335,739,361"/>
 <area shape="rect" id="node29" href="$classFifoAsync.html" title="FifoAsync(5)" alt="" coords="445,360,542,387"/>
@@ -31,5 +31,5 @@
 <area shape="rect" id="node30" href="$classFifoOutputPipeline.html" title="FifoOutputPipeline" alt="" coords="203,309,335,336"/>
 <area shape="rect" id="node31" href="$classSynchronizerVector.html" title="SynchronizerVector(2)" alt="" coords="192,360,347,387"/>
 <area shape="rect" id="node32" href="$classSimpleDualPortRam.html" title="SimpleDualPortRam" alt="" coords="198,411,341,437"/>
-<area shape="rect" id="node34" href="$classPgp2bGtx7VarLatWrapper.html" title="entity &#160;gtx7 " alt="" coords="1304,335,1483,361"/>
+<area shape="rect" id="node34" href="$classPgp2bGtx7VarLatWrapper.html" title="Pgp2bGtx7VarLatWrapper" alt="" coords="1304,335,1483,361"/>
 </map>

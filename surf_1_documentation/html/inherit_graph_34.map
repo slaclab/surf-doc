@@ -37,7 +37,7 @@
 <area shape="rect" id="node33" href="$classTenGigEthGth7Wrapper.html" title="TenGigEthGth7Wrapper" alt="" coords="2252,4591,2417,4617"/>
 <area shape="rect" id="node35" href="$classTenGigEthGthUltraScaleWrapper.html" title="TenGigEthGthUltraScaleWrapper" alt="" coords="2225,3163,2445,3189"/>
 <area shape="rect" id="node37" href="$classTenGigEthGtx7Wrapper.html" title="TenGigEthGtx7Wrapper" alt="" coords="2252,4869,2417,4896"/>
-<area shape="rect" id="node39" href="$classXauiGth7.html" title="entity &#160;gth7 " alt="" coords="2041,1601,2119,1628"/>
+<area shape="rect" id="node39" href="$classXauiGth7.html" title="XauiGth7" alt="" coords="2041,1601,2119,1628"/>
 <area shape="rect" id="node41" href="$classXauiGthUltraScale.html" title="XauiGthUltraScale" alt="" coords="2014,2209,2146,2236"/>
 <area shape="rect" id="node43" href="$classXauiGtx7.html" title="XauiGtx7" alt="" coords="2041,1652,2119,1679"/>
 <area shape="rect" id="node40" href="$classXauiGth7Wrapper.html" title="XauiGth7Wrapper" alt="" coords="2270,1601,2399,1628"/>
@@ -45,7 +45,7 @@
 <area shape="rect" id="node44" href="$classXauiGtx7Wrapper.html" title="XauiGtx7Wrapper" alt="" coords="2271,1652,2399,1679"/>
 <area shape="rect" id="node45" href="$classAxiLiteMaster.html" title="AxiLiteMaster" alt="" coords="673,2235,775,2261"/>
 <area shape="rect" id="node46" href="$classAxiStreamDmaRingRead.html" title="AxiStreamDmaRingRead" alt="" coords="1120,2589,1291,2616"/>
-<area shape="rect" id="node47" href="$classSlvArraytoAxiLite.html" title="entity &#160;axi " alt="" coords="903,2437,1027,2464"/>
+<area shape="rect" id="node47" href="$classSlvArraytoAxiLite.html" title="SlvArraytoAxiLite" alt="" coords="903,2437,1027,2464"/>
 <area shape="rect" id="node48" href="$classUartAxiLiteMaster.html" title="UartAxiLiteMaster" alt="" coords="901,2235,1029,2261"/>
 <area shape="rect" id="node49" href="$classAxiLtc2270DeserBit.html" title="AxiLtc2270DeserBit" alt="" coords="443,3045,581,3072"/>
 <area shape="rect" id="node50" href="$classAxiLtc2270Deser.html" title="AxiLtc2270Deser" alt="" coords="662,2995,786,3021"/>
@@ -84,7 +84,7 @@
 <area shape="rect" id="node66" href="$classPgp2bGtp7VarLatWrapper.html" title="Pgp2bGtp7VarLatWrapper" alt="" coords="2245,3371,2425,3397"/>
 <area shape="rect" id="node68" href="$classPgp2bGtx7FixedLatWrapper.html" title="Pgp2bGtx7FixedLatWrapper" alt="" coords="2239,3776,2430,3803"/>
 <area shape="rect" id="node70" href="$classPgp2bGtx7VarLat.html" title="Pgp2bGtx7VarLat" alt="" coords="2016,3903,2144,3929"/>
-<area shape="rect" id="node71" href="$classPgp2bGtx7VarLatWrapper.html" title="entity &#160;gtx7 " alt="" coords="2245,3599,2424,3625"/>
+<area shape="rect" id="node71" href="$classPgp2bGtx7VarLatWrapper.html" title="Pgp2bGtx7VarLatWrapper" alt="" coords="2245,3599,2424,3625"/>
 <area shape="rect" id="node75" href="$classUdpEngine.html" title="UdpEngine" alt="" coords="1395,309,1483,336"/>
 <area shape="rect" id="node78" href="$classSrpV3Axi.html" title="SrpV3Axi" alt="" coords="1400,715,1477,741"/>
 <area shape="rect" id="node79" href="$classSrpV3AxiLiteFull.html" title="SrpV3AxiLiteFull" alt="" coords="1601,740,1721,767"/>
@@ -109,7 +109,7 @@
 <area shape="rect" id="node112" href="$classUdpEngineDhcp.html" title="UdpEngineDhcp" alt="" coords="1146,411,1265,437"/>
 <area shape="rect" id="node85" href="$classEthMacRxImport.html" title="EthMacRxImport" alt="" coords="1378,1779,1499,1805"/>
 <area shape="rect" id="node86" href="$classEthMacRx.html" title="EthMacRx" alt="" coords="1619,2133,1703,2160"/>
-<area shape="rect" id="node87" href="$classEthMacTop.html" title="entity &#160;EthMacCore " alt="" coords="1815,2311,1905,2337"/>
+<area shape="rect" id="node87" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="1815,2311,1905,2337"/>
 <area shape="rect" id="node90" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="1620,2235,1703,2261"/>
 <area shape="rect" id="node92" href="$classEthMacTxExport.html" title="EthMacTxExport" alt="" coords="1379,2285,1499,2312"/>
 <area shape="rect" id="node97" href="$classSalt7Series.html" title="Salt7Series" alt="" coords="1393,1880,1484,1907"/>
@@ -211,7 +211,7 @@
 <area shape="rect" id="node209" href="$classAxiStreamDmaWrite.html" title="AxiStreamDmaWrite" alt="" coords="894,613,1037,640"/>
 <area shape="rect" id="node210" href="$classJesdRxLane.html" title="JesdRxLane" alt="" coords="464,5249,560,5276"/>
 <area shape="rect" id="node212" href="$classGLinkEncoder.html" title="GLinkEncoder" alt="" coords="459,4819,565,4845"/>
-<area shape="rect" id="node213" href="$classGLinkTxToRx.html" title="GLinkTxToRx" alt="" coords="672,4971,776,4997"/>
+<area shape="rect" id="node213" href="$classGLinkTxToRx.html" title="entity &#160;core " alt="" coords="672,4971,776,4997"/>
 <area shape="rect" id="node214" href="$classGth7RecClkMonitor.html" title="Gth7RecClkMonitor" alt="" coords="223,4920,361,4947"/>
 <area shape="rect" id="node215" href="$classGth7Core.html" title="Gth7Core" alt="" coords="472,5123,552,5149"/>
 <area shape="rect" id="node216" href="$classGtpRxCommaAligner.html" title="GtpRxCommaAligner" alt="" coords="1587,5224,1735,5251"/>

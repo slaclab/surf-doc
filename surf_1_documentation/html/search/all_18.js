@@ -1,7 +1,6 @@
 var searchData=
 [
   ['udpengine',['UdpEngine',['../group__ethernet__UdpEngine.html',1,'']]],
-  ['uart',['uart',['../group__protocols__uart.html',1,'']]],
   ['u_5frxerrorirqen',['U_RxErrorIrqEn',['../classPgp2bAxi_1_1structure.html#a5808195bcef9d2501c02f463d1d449df',1,'Pgp2bAxi::structure']]],
   ['u_5fstatusword',['U_StatusWord',['../classPgp2bAxi_1_1structure.html#a3cf7d2bc53d57e09fd91c35783231e38',1,'Pgp2bAxi::structure']]],
   ['uand',['uAnd',['../classStdRtlPkg.html#abe41ae057f73f56dc0dffafcbfc17231',1,'StdRtlPkg.uAnd()'],['../class__StdRtlPkg.html#abe41ae057f73f56dc0dffafcbfc17231',1,'_StdRtlPkg.uAnd()']]],
@@ -47,6 +46,5 @@ var searchData=
   ['use_5fpll_5fg',['USE_PLL_G',['../classAxiAds42lb69Core.html#a32d85c6bc25c123d1255e4f715ce0472',1,'AxiAds42lb69Core.USE_PLL_G()'],['../classAxiAds42lb69Deser.html#a32d85c6bc25c123d1255e4f715ce0472',1,'AxiAds42lb69Deser.USE_PLL_G()'],['../classAxiAds42lb69Pll.html#abf393626eeecc7d6b03982434995a9cf',1,'AxiAds42lb69Pll.USE_PLL_G()']]],
   ['use_5fslowclk_5fg',['USE_SLOWCLK_G',['../classAxiVersion.html#af7808b7223a689850e4006441faff8be',1,'AxiVersion.USE_SLOWCLK_G()'],['../classDeviceDna7Series.html#af7808b7223a689850e4006441faff8be',1,'DeviceDna7Series.USE_SLOWCLK_G()'],['../classIprog7Series.html#af7808b7223a689850e4006441faff8be',1,'Iprog7Series.USE_SLOWCLK_G()'],['../classDeviceDna.html#af7808b7223a689850e4006441faff8be',1,'DeviceDna.USE_SLOWCLK_G()'],['../classIprog.html#af7808b7223a689850e4006441faff8be',1,'Iprog.USE_SLOWCLK_G()'],['../classDeviceDnaUltraScale.html#af7808b7223a689850e4006441faff8be',1,'DeviceDnaUltraScale.USE_SLOWCLK_G()'],['../classIprogUltraScale.html#af7808b7223a689850e4006441faff8be',1,'IprogUltraScale.USE_SLOWCLK_G()']]],
   ['uservalues',['userValues',['../classAxiVersion.html#afaa4ae1d27e524010d9cd9493b56d174',1,'AxiVersion']]],
-  ['uxor',['uXor',['../classStdRtlPkg.html#a8d3013df008d6189349d05901e86c1e1',1,'StdRtlPkg.uXor()'],['../class__StdRtlPkg.html#a8d3013df008d6189349d05901e86c1e1',1,'_StdRtlPkg.uXor()']]],
-  ['ultrascale',['UltraScale',['../group__xilinx__UltraScale.html',1,'']]]
+  ['uxor',['uXor',['../classStdRtlPkg.html#a8d3013df008d6189349d05901e86c1e1',1,'StdRtlPkg.uXor()'],['../class__StdRtlPkg.html#a8d3013df008d6189349d05901e86c1e1',1,'_StdRtlPkg.uXor()']]]
 ];

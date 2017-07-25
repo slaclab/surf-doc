@@ -1,6 +1,6 @@
 var classAxiAd9467Pll =
 [
-    [ "mapping", "classAxiAd9467Pll_1_1mapping.html", "classAxiAd9467Pll_1_1mapping" ],
+    [ "AxiAd9467Pll.mapping", "classAxiAd9467Pll_1_1mapping.html", "classAxiAd9467Pll_1_1mapping" ],
     [ "TPD_G", "classAxiAd9467Pll.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "ADC_CLK_FREQ_G", "classAxiAd9467Pll.html#a32856a8caa5557f3b267be667b1c90da", null ],
     [ "adcClkOutP", "classAxiAd9467Pll.html#ac91a7e41e3c2e2dbc3b75e4e1336b89f", null ],

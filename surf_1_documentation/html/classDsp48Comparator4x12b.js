@@ -1,6 +1,6 @@
 var classDsp48Comparator4x12b =
 [
-    [ "mapping", "classDsp48Comparator4x12b_1_1mapping.html", "classDsp48Comparator4x12b_1_1mapping" ],
+    [ "Dsp48Comparator4x12b.mapping", "classDsp48Comparator4x12b_1_1mapping.html", "classDsp48Comparator4x12b_1_1mapping" ],
     [ "TPD_G", "classDsp48Comparator4x12b.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "EN_GREATER_EQUAL_G", "classDsp48Comparator4x12b.html#a1d584eac5e6380d56e1b87f50ea42e3c", null ],
     [ "polarity", "classDsp48Comparator4x12b.html#aae2123e4f979975929894d38c1a37332", null ],

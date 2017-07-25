@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jesd204b',['jesd204b',['../group__protocols__jesd204b.html',1,'']]]
+  ['lct2270',['lct2270',['../group__devices__Linear__lct2270.html',1,'']]]
 ];

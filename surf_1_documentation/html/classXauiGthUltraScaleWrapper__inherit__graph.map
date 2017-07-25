@@ -9,7 +9,7 @@
 <area shape="rect" id="node18" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2" alt="" coords="316,411,439,437"/>
 <area shape="rect" id="node40" href="$classSynchronizerEdge.html" title="SynchronizerEdge" alt="" coords="312,233,443,260"/>
 <area shape="rect" id="node6" href="$classXauiGthUltraScale.html" title="XauiGthUltraScale" alt="" coords="1534,157,1666,184"/>
-<area shape="rect" id="node7" href="$classEthMacTop.html" title="entity &#160;EthMacCore " alt="" coords="1232,284,1323,311"/>
+<area shape="rect" id="node7" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="1232,284,1323,311"/>
 <area shape="rect" id="node8" href="$classEthMacTxFifo.html" title="EthMacTxFifo" alt="" coords="993,259,1097,285"/>
 <area shape="rect" id="node10" href="$classAxiStreamResize.html" title="AxiStreamResize(2)" alt="" coords="115,309,255,336"/>
 <area shape="rect" id="node11" href="$classFifoCascade.html" title="FifoCascade(2)" alt="" coords="129,360,242,387"/>

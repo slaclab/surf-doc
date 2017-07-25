@@ -1,7 +1,7 @@
 <map id="Pgp2bGth7FixedLatWrapper" name="Pgp2bGth7FixedLatWrapper">
 <area shape="rect" id="node2" href="$classPwrUpRst.html" title="PwrUpRst" alt="" coords="648,233,731,260"/>
 <area shape="rect" id="node3" href="$classRstSync.html" title="RstSync" alt="" coords="233,309,305,336"/>
-<area shape="rect" id="node34" href="$classGth7RxFixedLatPhaseAligner.html" title="Gth7RxFixedLatPhaseAligner" alt="" coords="395,309,592,336"/>
+<area shape="rect" id="node34" href="$classGth7RxFixedLatPhaseAligner.html" title="entity &#160;xilinx_7Series_gth7 " alt="" coords="395,309,592,336"/>
 <area shape="rect" id="node4" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="25,360,125,387"/>
 <area shape="rect" id="node8" href="$classRstSync.html" title="RstSync(2)" alt="" coords="225,208,313,235"/>
 <area shape="rect" id="node16" href="$classPgp2bTx.html" title="Pgp2bTx" alt="" coords="231,664,307,691"/>

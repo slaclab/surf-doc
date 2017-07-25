@@ -1,16 +1,11 @@
 var searchData=
 [
-  ['sync',['sync',['../group__base__sync.html',1,'']]],
   ['sy56040',['sy56040',['../group__devices__Microchip__sy56040.html',1,'']]],
   ['sfp',['sfp',['../group__devices__transceivers__sfp.html',1,'']]],
   ['surf_5f1',['surf_1',['../index.html',1,'']]],
-  ['simlink',['simlink',['../group__protocols__pgp__pgp2b__core__simlink.html',1,'']]],
-  ['saci',['saci',['../group__protocols__saci.html',1,'']]],
   ['salt',['salt',['../group__protocols__salt.html',1,'']]],
   ['spi',['spi',['../group__protocols__spi.html',1,'']]],
-  ['srp',['srp',['../group__protocols__srp.html',1,'']]],
   ['ssi',['ssi',['../group__protocols__ssi.html',1,'']]],
-  ['ssp',['ssp',['../group__protocols__ssp.html',1,'']]],
   ['s',['s',['../classDspAddSub.html#a445dddbae92b32fc12aa1d7fbbc56080',1,'DspAddSub']]],
   ['s2mrst',['s2mRst',['../classAxiLiteAsync_1_1STRUCTURE.html#a87500980f6a683bc3be31e8319175581',1,'AxiLiteAsync::STRUCTURE']]],
   ['s_5fstate',['s_state',['../classi2c__master__bit__ctrl_1_1structural.html#a2f902df211afe1f5c511ffcc5c314133',1,'i2c_master_bit_ctrl::structural']]],
@@ -1156,6 +1151,5 @@ var searchData=
   ['sysrst',['sysRst',['../classSaciMaster2.html#ad6f88b30c93e1fee7769c9268b934617',1,'SaciMaster2']]],
   ['sysrst125',['sysRst125',['../classGigEthGth7.html#acbcfdbdb02b310a612294fc08339e972',1,'GigEthGth7.sysRst125()'],['../classGigEthGth7Wrapper_1_1mapping.html#a597ac291f454c50cc8993d0430fe0fc6',1,'GigEthGth7Wrapper.mapping.sysRst125()'],['../classGigEthGthUltraScale.html#acbcfdbdb02b310a612294fc08339e972',1,'GigEthGthUltraScale.sysRst125()'],['../classGigEthGthUltraScaleWrapper_1_1mapping.html#a597ac291f454c50cc8993d0430fe0fc6',1,'GigEthGthUltraScaleWrapper.mapping.sysRst125()'],['../classGigEthGtp7.html#acbcfdbdb02b310a612294fc08339e972',1,'GigEthGtp7.sysRst125()'],['../classGigEthGtp7Wrapper_1_1mapping.html#a597ac291f454c50cc8993d0430fe0fc6',1,'GigEthGtp7Wrapper.mapping.sysRst125()'],['../classGigEthGtx7.html#acbcfdbdb02b310a612294fc08339e972',1,'GigEthGtx7.sysRst125()'],['../classGigEthGtx7Wrapper_1_1mapping.html#a597ac291f454c50cc8993d0430fe0fc6',1,'GigEthGtx7Wrapper.mapping.sysRst125()']]],
   ['sysrst62',['sysRst62',['../classGigEthGth7Wrapper_1_1mapping.html#a59586e828eb823cc7c50249b0578dfd2',1,'GigEthGth7Wrapper.mapping.sysRst62()'],['../classGigEthGthUltraScaleWrapper_1_1mapping.html#a59586e828eb823cc7c50249b0578dfd2',1,'GigEthGthUltraScaleWrapper.mapping.sysRst62()'],['../classGigEthGtp7Wrapper_1_1mapping.html#a59586e828eb823cc7c50249b0578dfd2',1,'GigEthGtp7Wrapper.mapping.sysRst62()'],['../classGigEthGtx7Wrapper_1_1mapping.html#a59586e828eb823cc7c50249b0578dfd2',1,'GigEthGtx7Wrapper.mapping.sysRst62()']]],
-  ['system_5fclk',['SYSTEM_CLK',['../classGth7RecClkMonitor.html#adfde28e5b0e55fa923848c91403abc4f',1,'Gth7RecClkMonitor.SYSTEM_CLK()'],['../classGtp7RecClkMonitor.html#adfde28e5b0e55fa923848c91403abc4f',1,'Gtp7RecClkMonitor.SYSTEM_CLK()'],['../classGtx7RecClkMonitor.html#adfde28e5b0e55fa923848c91403abc4f',1,'Gtx7RecClkMonitor.SYSTEM_CLK()']]],
-  ['sem',['sem',['../group__xilinx__7Series__sem.html',1,'']]]
+  ['system_5fclk',['SYSTEM_CLK',['../classGth7RecClkMonitor.html#adfde28e5b0e55fa923848c91403abc4f',1,'Gth7RecClkMonitor.SYSTEM_CLK()'],['../classGtp7RecClkMonitor.html#adfde28e5b0e55fa923848c91403abc4f',1,'Gtp7RecClkMonitor.SYSTEM_CLK()'],['../classGtx7RecClkMonitor.html#adfde28e5b0e55fa923848c91403abc4f',1,'Gtx7RecClkMonitor.SYSTEM_CLK()']]]
 ];

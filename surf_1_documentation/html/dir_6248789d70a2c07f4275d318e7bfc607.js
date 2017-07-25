@@ -94,7 +94,5 @@ var dir_6248789d70a2c07f4275d318e7bfc607 =
     [ "AxiWritePathMux.vhd", "AxiWritePathMux_8vhd.html", [
       [ "AxiWritePathMux.structure", "classAxiWritePathMux_1_1structure.html", "classAxiWritePathMux_1_1structure" ]
     ] ],
-    [ "SlvArraytoAxiLite.vhd", "SlvArraytoAxiLite_8vhd.html", [
-      [ "SlvArraytoAxiLite", "classSlvArraytoAxiLite.html", "classSlvArraytoAxiLite" ]
-    ] ]
+    [ "SlvArraytoAxiLite.vhd", "SlvArraytoAxiLite_8vhd.html", null ]
 ];

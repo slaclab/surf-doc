@@ -1,6 +1,6 @@
 var classGtp7RxRst =
 [
-    [ "RTL", "classGtp7RxRst_1_1RTL.html", "classGtp7RxRst_1_1RTL" ],
+    [ "Gtp7RxRst.RTL", "classGtp7RxRst_1_1RTL.html", "classGtp7RxRst_1_1RTL" ],
     [ "TPD_G", "classGtp7RxRst.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "SIMULATION_G", "classGtp7RxRst.html#ac6de36aa80aba7f5067e4172962ede27", null ],
     [ "STABLE_CLOCK_PERIOD", "classGtp7RxRst.html#a8cb397c6d496f9b081d34b2633e8cc73", null ],

@@ -1,6 +1,6 @@
 var classAxiI2cMasterCore =
 [
-    [ "mapping", "classAxiI2cMasterCore_1_1mapping.html", "classAxiI2cMasterCore_1_1mapping" ],
+    [ "AxiI2cMasterCore.mapping", "classAxiI2cMasterCore_1_1mapping.html", "classAxiI2cMasterCore_1_1mapping" ],
     [ "TPD_G", "classAxiI2cMasterCore.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "DEVICE_MAP_G", "classAxiI2cMasterCore.html#ae608c60095f847676a3b9aa5d883287c", null ],
     [ "AXI_CLK_FREQ_G", "classAxiI2cMasterCore.html#a82571368c463a52e90b4676481bb0826", null ],

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['qsfp',['qsfp',['../group__devices__transceivers__qsfp.html',1,'']]],
   ['q1',['Q1',['../classAxiAd9467DeserBit.html#aa3148ea0968e075237268c0c256bd8b2',1,'AxiAd9467DeserBit.Q1()'],['../classAxiLtc2270DeserBit.html#aa3148ea0968e075237268c0c256bd8b2',1,'AxiLtc2270DeserBit.Q1()'],['../classAxiAds42lb69DeserBit.html#aa3148ea0968e075237268c0c256bd8b2',1,'AxiAds42lb69DeserBit.Q1()']]],
   ['q2',['Q2',['../classAxiAd9467DeserBit.html#a94260ec07af686b935fa606fefe7bb21',1,'AxiAd9467DeserBit.Q2()'],['../classAxiLtc2270DeserBit.html#a94260ec07af686b935fa606fefe7bb21',1,'AxiLtc2270DeserBit.Q2()'],['../classAxiAds42lb69DeserBit.html#a94260ec07af686b935fa606fefe7bb21',1,'AxiAds42lb69DeserBit.Q2()']]],
   ['qpll_5fcfg0_5fg',['QPLL_CFG0_G',['../classGthUltraScaleQuadPll.html#a3b9459c2332d85cdc932bf23da2c64ea',1,'GthUltraScaleQuadPll']]],

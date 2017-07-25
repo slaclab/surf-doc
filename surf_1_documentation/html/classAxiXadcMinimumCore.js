@@ -1,6 +1,6 @@
 var classAxiXadcMinimumCore =
 [
-    [ "mapping", "classAxiXadcMinimumCore_1_1mapping.html", "classAxiXadcMinimumCore_1_1mapping" ],
+    [ "AxiXadcMinimumCore.mapping", "classAxiXadcMinimumCore_1_1mapping.html", "classAxiXadcMinimumCore_1_1mapping" ],
     [ "TPD_G", "classAxiXadcMinimumCore.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "vPIn", "classAxiXadcMinimumCore.html#a23e6cf7cedf6877993c27338834c4820", null ],
     [ "vNIn", "classAxiXadcMinimumCore.html#a5b763e6cecf986842dafb007e1c650a6", null ],

@@ -1,14 +1,6 @@
 <map id="protocols" name="protocols">
-<area shape="rect" id="node1" href="$group__protocols__uart.html" title="The protocols_uart page. " alt="" coords="147,5,192,32"/>
-<area shape="rect" id="node2" href="$group__protocols__jesd204b.html" title="The protocols_jesd204b page. " alt="" coords="131,56,207,83"/>
-<area shape="rect" id="node3" href="$group__protocols__saci.html" title="The protocols_saci page. " alt="" coords="147,107,192,133"/>
-<area shape="rect" id="node4" href="$group__protocols__salt.html" title="The protocols_salt page. " alt="" coords="148,157,191,184"/>
-<area shape="rect" id="node6" href="$group__protocols__i2c.html" title="The protocols_i2c page. " alt="" coords="150,208,189,235"/>
-<area shape="rect" id="node7" href="$group__protocols__glink.html" title="The protocols_glink page. " alt="" coords="145,259,194,285"/>
-<area shape="rect" id="node8" href="$group__protocols__rssi.html" title="The protocols_rssi page. " alt="" coords="148,309,191,336"/>
-<area shape="rect" id="node9" href="$group__protocols__pgp.html" title="The protocols_pgp page. " alt="" coords="147,360,191,387"/>
-<area shape="rect" id="node10" href="$group__protocols__ssp.html" title="The protocols_ssp page. " alt="" coords="148,411,191,437"/>
-<area shape="rect" id="node11" href="$group__protocols__srp.html" title="The protocols_srp page. " alt="" coords="149,461,189,488"/>
-<area shape="rect" id="node12" href="$group__protocols__ssi.html" title="The protocols_ssi page. " alt="" coords="150,512,189,539"/>
-<area shape="rect" id="node13" href="$group__protocols__spi.html" title="The protocols_spi page. " alt="" coords="150,563,189,589"/>
+<area shape="rect" id="node1" href="$group__protocols__salt.html" title="The protocols_salt page. " alt="" coords="131,5,173,32"/>
+<area shape="rect" id="node3" href="$group__protocols__rssi.html" title="The protocols_rssi page. " alt="" coords="131,56,173,83"/>
+<area shape="rect" id="node4" href="$group__protocols__ssi.html" title="The protocols_ssi page. " alt="" coords="133,107,171,133"/>
+<area shape="rect" id="node5" href="$group__protocols__spi.html" title="The protocols_spi page. " alt="" coords="133,157,171,184"/>
 </map>
