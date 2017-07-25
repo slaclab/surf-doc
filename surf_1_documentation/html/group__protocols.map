@@ -1,6 +1,0 @@
-<map id="protocols" name="protocols">
-<area shape="rect" id="node1" href="$group__protocols__salt.html" title="The protocols_salt page. " alt="" coords="131,5,173,32"/>
-<area shape="rect" id="node3" href="$group__protocols__rssi.html" title="The protocols_rssi page. " alt="" coords="131,56,173,83"/>
-<area shape="rect" id="node4" href="$group__protocols__ssi.html" title="The protocols_ssi page. " alt="" coords="133,107,171,133"/>
-<area shape="rect" id="node5" href="$group__protocols__spi.html" title="The protocols_spi page. " alt="" coords="133,157,171,184"/>
-</map>

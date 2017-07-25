@@ -1,8 +1,0 @@
-<map id="AxiStreamDmaRead" name="AxiStreamDmaRead">
-<area shape="rect" id="node4" href="$classAxiStreamDma.html" title="AxiStreamDma" alt="" coords="5,229,117,256"/>
-<area shape="rect" id="node5" href="$classAxiStreamDmaRingRead.html" title="AxiStreamDmaRingRead" alt="" coords="141,229,312,256"/>
-<area shape="rect" id="node6" href="$classSrpV3Axi.html" title="SrpV3Axi" alt="" coords="336,229,413,256"/>
-<area shape="rect" id="node2" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="161,5,292,32"/>
-<area shape="rect" id="node3" href="$classAxiStreamShift.html" title="AxiStreamShift" alt="" coords="218,80,328,107"/>
-<area shape="rect" id="node7" href="$classSrpV3AxiLiteFull.html" title="SrpV3AxiLiteFull" alt="" coords="315,304,435,331"/>
-</map>

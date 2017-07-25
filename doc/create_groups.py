@@ -179,14 +179,15 @@ else:
 	new_modules =[]
 
 	new_modules = replace_groups("base", modules, new_modules)
-	new_modules = replace_groups("general", modules, new_modules)
-	new_modules = replace_groups("sync", modules, new_modules)
-	new_modules = replace_groups("ram", modules, new_modules)
-	new_modules = replace_groups("fifo", modules, new_modules)
 	new_modules = replace_groups("axi", modules, new_modules)
 	new_modules = replace_groups("protocols", modules, new_modules)
 	new_modules = replace_groups("ethernet", modules, new_modules)
 	new_modules = replace_groups("devices", modules, new_modules)
+	new_modules = replace_groups("base/general", modules, new_modules)
+	new_modules = replace_groups("base/sync", modules, new_modules)
+	new_modules = replace_groups("base/ram", modules, new_modules)
+	new_modules = replace_groups("base/fifo", modules, new_modules)
+
 
 	for group in modules:
 		new_modules = replace_groups(group, modules, new_modules)
@@ -197,17 +198,13 @@ else:
 	#create modules
 	try:
 		main_page = open("doc/mainpage.txt", 'w')
-		packages = open("doc/package.txt", 'w')
 
 	except IOError:
-		pkg_check=0
 		print "Error: File mainpage does not appear to exist.\n"
 
 	else:	
-		pkg_check=1
 		#open mainpage.txt
 		main_page.write( "/** \n @brief Documentation file to be used in Doxygen mainpage. \n @author Steven McDonald\n @file\n */\n /**\n @mainpage {}\n Welcome to the {} repository documentation page\n".format(repository_name,repository_name))
-		packages.write( "/**\n @page Packages \n @brief The {} Packages Page\\n \n".format(repository_name))
 
 		#make module groupings, create declarations
 		for group in modules:
@@ -285,7 +282,6 @@ else:
 			#if its a package, write to packages page isntead
 			elif "Pkg" in sub_file:
 				if sub_file not in pkgs:
-					packages.write("{}.vhd\\n \n".format(sub_file_name))
 					pkgs.append(sub_file)
 		
 		#create inheritances
@@ -489,9 +485,6 @@ else:
 			pkg_graph.write("\page {} \n\ingroup {} \n\copydetails {}.vhd \n */".format(group, group, pkg))
 			pkg_graph.close()
 
-	#check that packages is open
-	if pkg_check ==1: 
-		packages.write( "**/")
-		packages.close
+
 
 

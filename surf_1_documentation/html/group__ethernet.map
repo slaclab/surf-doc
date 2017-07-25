@@ -1,8 +1,0 @@
-<map id="ethernet" name="ethernet">
-<area shape="rect" id="node2" href="$group__ethernet__GigEthCore.html" title="The ethernet_GigEthCore page. " alt="" coords="137,5,229,32"/>
-<area shape="rect" id="node3" href="$group__ethernet__TenGigEthCore.html" title="The ethernet_TenGigEthCore page. " alt="" coords="125,56,240,83"/>
-<area shape="rect" id="node4" href="$group__ethernet__EthMacCore.html" title="The ethernet_EthMacCore page. " alt="" coords="135,107,231,133"/>
-<area shape="rect" id="node5" href="$group__ethernet__UdpEngine.html" title="The ethernet_UdpEngine page. " alt="" coords="139,157,227,184"/>
-<area shape="rect" id="node6" href="$group__ethernet__IpV4Engine.html" title="The ethernet_IpV4Engine page. " alt="" coords="137,208,228,235"/>
-<area shape="rect" id="node7" href="$group__ethernet__XauiCore.html" title="The ethernet_XauiCore page. " alt="" coords="144,259,221,285"/>
-</map>

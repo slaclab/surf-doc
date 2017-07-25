@@ -1,6 +1,0 @@
-<map id="TenGigEthCore" name="TenGigEthCore">
-<area shape="rect" id="node1" href="$group__ethernet.html" title="The ethernet page. " alt="" coords="6,56,77,83"/>
-<area shape="rect" id="node2" href="$group__ethernet__TenGigEthCore__gtx7.html" title="The ethernet_TenGigEthCore_gtx7 page. " alt="" coords="289,5,335,32"/>
-<area shape="rect" id="node3" href="$group__ethernet__TenGigEthCore__gth7.html" title="The ethernet_TenGigEthCore_gth7 page. " alt="" coords="288,56,336,83"/>
-<area shape="rect" id="node5" href="$group__ethernet__TenGigEthCore__core.html" title="The ethernet_TenGigEthCore_core page. " alt="" coords="288,107,336,133"/>
-</map>

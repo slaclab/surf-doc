@@ -1,4 +1,0 @@
-var dir_8cf7765b9bd5896ad095e44ef6d50ad4 =
-[
-    [ "rtl", "dir_4d4ca92d50eb3e0322220621d1364579.html", "dir_4d4ca92d50eb3e0322220621d1364579" ]
-];

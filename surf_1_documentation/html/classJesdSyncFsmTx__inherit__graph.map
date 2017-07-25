@@ -1,6 +1,0 @@
-<map id="JesdSyncFsmTx" name="JesdSyncFsmTx">
-<area shape="rect" id="node2" href="$classJesdTxLane.html" title="JesdTxLane" alt="" coords="109,80,203,107"/>
-<area shape="rect" id="node3" href="$classJesd204bTx.html" title="Jesd204bTx" alt="" coords="109,155,203,181"/>
-<area shape="rect" id="node4" href="$classJesd204bTxGthUltra.html" title="Jesd204bTxGthUltra" alt="" coords="5,229,149,256"/>
-<area shape="rect" id="node5" href="$classJesd204bTxGtx7.html" title="Jesd204bTxGtx7" alt="" coords="173,229,296,256"/>
-</map>
