@@ -1,0 +1,18 @@
+<map id="ClockManager7" name="ClockManager7">
+<area shape="rect" id="node11" href="$classGigEthGth7Wrapper.html" title="GigEthGth7Wrapper" alt="" coords="987,7,1130,33"/>
+<area shape="rect" id="node12" href="$classGigEthGtp7Wrapper.html" title="GigEthGtp7Wrapper" alt="" coords="987,57,1130,84"/>
+<area shape="rect" id="node13" href="$classGigEthGtx7Wrapper.html" title="GigEthGtx7Wrapper" alt="" coords="987,108,1130,135"/>
+<area shape="rect" id="node14" href="$classPgp2bGtp7FixedLatWrapper.html" title="Pgp2bGtp7FixedLatWrapper" alt="" coords="963,159,1155,185"/>
+<area shape="rect" id="node15" href="$classPgp2bGtp7VarLatWrapper.html" title="Pgp2bGtp7VarLatWrapper" alt="" coords="969,209,1149,236"/>
+<area shape="rect" id="node16" href="$classPgp2bGtx7FixedLatWrapper.html" title="Pgp2bGtx7FixedLatWrapper" alt="" coords="963,260,1154,287"/>
+<area shape="rect" id="node17" href="$classPgp2bGtx7VarLatWrapper.html" title="entity &#160;gtx7 " alt="" coords="969,311,1148,337"/>
+<area shape="rect" id="node2" href="$classAxiLiteToDrp.html" title="AxiLiteToDrp" alt="" coords="651,159,749,185"/>
+<area shape="rect" id="node3" href="$classAxiLiteAsync.html" title="AxiLiteAsync" alt="" coords="504,159,603,185"/>
+<area shape="rect" id="node4" href="$classRstSync.html" title="RstSync(2)" alt="" coords="188,208,276,235"/>
+<area shape="rect" id="node6" href="$classFifoAsync.html" title="FifoAsync(5)" alt="" coords="358,120,455,147"/>
+<area shape="rect" id="node5" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="6,208,106,235"/>
+<area shape="rect" id="node7" href="$classFifoOutputPipeline.html" title="FifoOutputPipeline" alt="" coords="166,5,298,32"/>
+<area shape="rect" id="node8" href="$classSynchronizerVector.html" title="SynchronizerVector(2)" alt="" coords="155,56,309,83"/>
+<area shape="rect" id="node9" href="$classSynchronizer.html" title="Synchronizer(2)" alt="" coords="174,107,290,133"/>
+<area shape="rect" id="node10" href="$classSimpleDualPortRam.html" title="SimpleDualPortRam" alt="" coords="161,157,303,184"/>
+</map>

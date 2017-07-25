@@ -32,32 +32,32 @@ if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ]; then
 	
 else
 	#create new folders for release
-	rm -rf ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"
-	mkdir -p ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"
+	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
+	mkdir -p ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
-	rm -rf ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"_documentation
-	mkdir -p ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"_documentation
+	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"_documentation
+	mkdir -p ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"_documentation
 	#create html
 	rm -rf ${HTML_PATH}
-	HTML_PATH=~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"_documentation/html
+	HTML_PATH=~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"_documentation/html
 	mkdir -p ${HTML_PATH}
 
 	#clone repository to local machine
-	cd ~/"${NAME}"_documentation/
+	cd ~/"${NAME}"-doc/
 	git commit -m "Staging for pull"
 	git pull
 
-	git clone ${REPO_PATH} ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"
-	cd ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"
+	git clone ${REPO_PATH} ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
+	cd ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 	#create doc folder
-	rm -rf ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"/doc/
-	mkdir -p ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"/doc/
-	cp -a ~/"${NAME}"_documentation/doc/. ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"/doc/
+	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/doc/
+	mkdir -p ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/doc/
+	cp -a ~/"${NAME}"-doc/doc/. ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/doc/
 
 
-	GRAPHS_PATH=~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"/doc/graphs
-	XML_PATH=~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"/doc/xml
+	GRAPHS_PATH=~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/doc/graphs
+	XML_PATH=~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/doc/xml
 	
 	#use doxygen to generate xml
 	doxygen doc/Doxyfile_1
@@ -70,19 +70,19 @@ else
 	rm -rf ${GRAPHS_PATH}
 	mkdir -p ${GRAPHS_PATH} 
 
-	python doc/create_groups.py ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"
+	python doc/create_groups.py ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 
 	#create html
 	mkdir -p html
 	
 	#switch to documentation folder
-	cd ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"_documentation
+	cd ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"_documentation
 
 
 
 	#go back to library
-	cd ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"
+	cd ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 	#generate documentation
 	echo " DOXY  Doxygen"
@@ -90,8 +90,8 @@ else
 
 	#move documentation to docs folder
 	cd ..
-	cp -rf ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"/doc/html/. "${HTML_PATH}"
-	rm -rf ~/"${NAME}"_documentation/"${NAME}"_"${RELEASE}"
+	cp -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/doc/html/. "${HTML_PATH}"
+	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 	#add release link to index for documentation
 	python doc/update_index.py "${NAME}" "${RELEASE}"

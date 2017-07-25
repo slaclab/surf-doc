@@ -1,0 +1,6 @@
+<map id="AxiStreamDmaV2Write" name="AxiStreamDmaV2Write">
+<area shape="rect" id="node5" href="$classAxiStreamDmaV2.html" title="AxiStreamDmaV2" alt="" coords="76,229,204,256"/>
+<area shape="rect" id="node2" href="$classDualPortRam.html" title="DualPortRam" alt="" coords="89,80,191,107"/>
+<area shape="rect" id="node3" href="$classTrueDualPortRam.html" title="TrueDualPortRam" alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node4" href="$classQuadPortRam.html" title="QuadPortRam" alt="" coords="159,5,265,32"/>
+</map>
