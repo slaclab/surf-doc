@@ -1,0 +1,9 @@
+<map id="devices" name="devices">
+<area shape="rect" id="node2" href="$group__devices__AnalogDevices.html" title="The devices_AnalogDevices page. " alt="" coords="121,5,231,32"/>
+<area shape="rect" id="node3" href="$group__devices__Xilinx.html" title="The devices_Xilinx page. " alt="" coords="149,56,203,83"/>
+<area shape="rect" id="node4" href="$group__devices__transceivers.html" title="The devices_transceivers page. " alt="" coords="129,107,223,133"/>
+<area shape="rect" id="node5" href="$group__devices__Linear.html" title="The devices_Linear page. " alt="" coords="147,157,205,184"/>
+<area shape="rect" id="node6" href="$group__devices__Micron.html" title="The devices_Micron page. " alt="" coords="145,208,207,235"/>
+<area shape="rect" id="node7" href="$group__devices__Ti.html" title="The devices_Ti page. " alt="" coords="157,259,195,285"/>
+<area shape="rect" id="node8" href="$group__devices__Microchip.html" title="The devices_Microchip page. " alt="" coords="137,309,215,336"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="AxiStreamDmaV2" name="AxiStreamDmaV2">
+<area shape="rect" id="node2" href="$classAxiStreamDmaV2Desc.html" title="AxiStreamDmaV2Desc" alt="" coords="886,157,1045,184"/>
+<area shape="rect" id="node3" href="$classAxiLiteCrossbar.html" title="AxiLiteCrossbar" alt="" coords="714,208,830,235"/>
+<area shape="rect" id="node4" href="$classFifo.html" title="Fifo(3)" alt="" coords="567,208,627,235"/>
+<area shape="rect" id="node5" href="$classFifoAsync.html" title="FifoAsync" alt="" coords="383,157,463,184"/>
+<area shape="rect" id="node21" href="$classSynchronizerFifo.html" title="SynchronizerFifo" alt="" coords="536,157,659,184"/>
+<area shape="rect" id="node6" href="$classRstSync.html" title="RstSync(2)" alt="" coords="188,157,276,184"/>
+<area shape="rect" id="node13" href="$classFifoSyncBuiltIn.html" title="FifoSyncBuiltIn" alt="" coords="367,259,478,285"/>
+<area shape="rect" id="node7" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="6,309,106,336"/>
+<area shape="rect" id="node14" href="$classSynchronizerEdge.html" title="SynchronizerEdge" alt="" coords="167,309,297,336"/>
+<area shape="rect" id="node16" href="$classRstSync.html" title="RstSync(4)" alt="" coords="188,360,276,387"/>
+<area shape="rect" id="node8" href="$classFifoOutputPipeline.html" title="FifoOutputPipeline" alt="" coords="166,259,298,285"/>
+<area shape="rect" id="node12" href="$classFifoSync.html" title="FifoSync" alt="" coords="386,208,459,235"/>
+<area shape="rect" id="node15" href="$classFifoAsyncBuiltIn.html" title="FifoAsyncBuiltIn" alt="" coords="364,309,481,336"/>
+<area shape="rect" id="node9" href="$classSynchronizerVector.html" title="SynchronizerVector(2)" alt="" coords="155,208,309,235"/>
+<area shape="rect" id="node10" href="$classSynchronizer.html" title="Synchronizer(2)" alt="" coords="174,56,290,83"/>
+<area shape="rect" id="node11" href="$classSimpleDualPortRam.html" title="SimpleDualPortRam" alt="" coords="161,107,303,133"/>
+<area shape="rect" id="node17" href="$classAxiDualPortRam.html" title="AxiDualPortRam" alt="" coords="712,107,832,133"/>
+<area shape="rect" id="node18" href="$classDualPortRam.html" title="DualPortRam(2)" alt="" coords="538,56,657,83"/>
+<area shape="rect" id="node19" href="$classTrueDualPortRam.html" title="TrueDualPortRam" alt="" coords="358,56,487,83"/>
+<area shape="rect" id="node25" href="$classDualPortRam.html" title="DualPortRam" alt="" coords="546,5,649,32"/>
+<area shape="rect" id="node20" href="$classQuadPortRam.html" title="QuadPortRam" alt="" coords="369,5,476,32"/>
+<area shape="rect" id="node22" href="$classAxiStreamDmaV2Read.html" title="AxiStreamDmaV2Read" alt="" coords="885,233,1045,260"/>
+<area shape="rect" id="node23" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="707,259,837,285"/>
+<area shape="rect" id="node24" href="$classAxiStreamDmaV2Write.html" title="AxiStreamDmaV2Write" alt="" coords="886,69,1045,96"/>
+</map>

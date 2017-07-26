@@ -1,0 +1,5 @@
+<map id="AxiLiteMaster" name="AxiLiteMaster">
+<area shape="rect" id="node2" href="$classAxiStreamDmaRingRead.html" title="AxiStreamDmaRingRead" alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$classSlvArraytoAxiLite.html" title="SlvArraytoAxiLite" alt="" coords="201,80,324,107"/>
+<area shape="rect" id="node4" href="$classUartAxiLiteMaster.html" title="UartAxiLiteMaster" alt="" coords="349,80,477,107"/>
+</map>
