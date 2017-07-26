@@ -3,7 +3,7 @@
 <area shape="rect" id="node6" href="$classIpV4EngineTx.html" title="IpV4EngineTx" alt="" coords="369,56,474,83"/>
 <area shape="rect" id="node7" href="$classPgp2bLane.html" title="Pgp2bLane" alt="" coords="376,272,467,299"/>
 <area shape="rect" id="node24" href="$classPgpSimModel.html" title="PgpSimModel" alt="" coords="369,157,474,184"/>
-<area shape="rect" id="node25" href="$classRssiCoreWrapper.html" title="entity &#160;rssi " alt="" coords="357,208,485,235"/>
+<area shape="rect" id="node25" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="357,208,485,235"/>
 <area shape="rect" id="node26" href="$classUdpEngineRx.html" title="UdpEngineRx" alt="" coords="369,107,473,133"/>
 <area shape="rect" id="node2" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="5,132,136,159"/>
 <area shape="rect" id="node4" href="$classIpV4Engine.html" title="IpV4Engine" alt="" coords="561,31,652,57"/>

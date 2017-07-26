@@ -14,7 +14,7 @@
 <area shape="rect" id="node11" href="$classEthMacRxImport.html" title="EthMacRxImport" alt="" coords="1214,56,1335,83"/>
 <area shape="rect" id="node12" href="$classEthMacRx.html" title="EthMacRx" alt="" coords="1387,56,1471,83"/>
 <area shape="rect" id="node14" href="$classEthMacTxExport.html" title="EthMacTxExport" alt="" coords="1215,360,1335,387"/>
-<area shape="rect" id="node15" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="1388,411,1471,437"/>
+<area shape="rect" id="node15" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="1388,411,1471,437"/>
 <area shape="rect" id="node17" href="$classAxiLiteFifoPop.html" title="AxiLiteFifoPop" alt="" coords="821,588,929,615"/>
 <area shape="rect" id="node18" href="$classAxiLiteFifoPush.html" title="AxiLiteFifoPush" alt="" coords="817,689,932,716"/>
 <area shape="rect" id="node19" href="$classAxiLiteFifoPushPop.html" title="AxiLiteFifoPushPop" alt="" coords="805,639,944,665"/>
@@ -22,7 +22,7 @@
 <area shape="rect" id="node23" href="$classAxiStreamFifo.html" title="AxiStreamFifo" alt="" coords="822,791,927,817"/>
 <area shape="rect" id="node24" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2" alt="" coords="813,537,936,564"/>
 <area shape="rect" id="node45" href="$classAxiWritePathFifo.html" title="AxiWritePathFifo" alt="" coords="814,436,935,463"/>
-<area shape="rect" id="node46" href="$classFifoMux.html" title="FifoMux" alt="" coords="840,487,909,513"/>
+<area shape="rect" id="node46" href="$classFifoMux.html" title="entity &#160;fifo " alt="" coords="840,487,909,513"/>
 <area shape="rect" id="node20" href="$classAxiStreamDma.html" title="AxiStreamDma" alt="" coords="1021,1120,1133,1147"/>
 <area shape="rect" id="node22" href="$classAxiReadEmulate.html" title="AxiReadEmulate" alt="" coords="1017,1171,1138,1197"/>
 <area shape="rect" id="node25" href="$classAxiLiteSrpV0.html" title="AxiLiteSrpV0" alt="" coords="1028,563,1127,589"/>
@@ -33,7 +33,7 @@
 <area shape="rect" id="node30" href="$classEthMacTxExportGmii.html" title="EthMacTxExportGmii" alt="" coords="1003,360,1151,387"/>
 <area shape="rect" id="node31" href="$classEthMacTxFifo.html" title="EthMacTxFifo" alt="" coords="1025,715,1129,741"/>
 <area shape="rect" id="node32" href="$classRssiCore.html" title="RssiCore" alt="" coords="1039,816,1116,843"/>
-<area shape="rect" id="node33" href="$classRssiCoreWrapper.html" title="entity &#160;rssi " alt="" coords="1211,791,1339,817"/>
+<area shape="rect" id="node33" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="1211,791,1339,817"/>
 <area shape="rect" id="node34" href="$classSaltTx.html" title="SaltTx" alt="" coords="1047,867,1107,893"/>
 <area shape="rect" id="node35" href="$classSrpV0AxiLite.html" title="SrpV0AxiLite" alt="" coords="1028,917,1127,944"/>
 <area shape="rect" id="node36" href="$classSrpV3AxiLite.html" title="SrpV3AxiLite" alt="" coords="1028,968,1127,995"/>
@@ -41,7 +41,7 @@
 <area shape="rect" id="node38" href="$classSsiAxiLiteMaster.html" title="SsiAxiLiteMaster" alt="" coords="1017,1069,1138,1096"/>
 <area shape="rect" id="node39" href="$classSsiCmdMaster.html" title="SsiCmdMaster" alt="" coords="1023,157,1132,184"/>
 <area shape="rect" id="node40" href="$classSsiIncrementingTx.html" title="SsiIncrementingTx" alt="" coords="1011,208,1143,235"/>
-<area shape="rect" id="node41" href="$classSsiInsertSof.html" title="SsiInsertSof" alt="" coords="1031,259,1124,285"/>
+<area shape="rect" id="node41" href="$classSsiInsertSof.html" title="entity &#160;ssi " alt="" coords="1031,259,1124,285"/>
 <area shape="rect" id="node42" href="$classSsiPrbsRx.html" title="SsiPrbsRx" alt="" coords="1035,309,1119,336"/>
 <area shape="rect" id="node43" href="$classSsiPrbsTx.html" title="SsiPrbsTx" alt="" coords="1036,411,1119,437"/>
 <area shape="rect" id="node44" href="$classSsiPrbsTxOld.html" title="SsiPrbsTxOld" alt="" coords="1025,461,1129,488"/>

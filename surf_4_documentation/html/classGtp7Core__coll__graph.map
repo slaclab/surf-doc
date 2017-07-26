@@ -1,5 +1,5 @@
 <map id="Gtp7Core" name="Gtp7Core">
-<area shape="rect" id="node2" href="$classGtp7RxRst.html" title="entity &#160;gtp7 " alt="" coords="405,5,491,32"/>
+<area shape="rect" id="node2" href="$classGtp7RxRst.html" title="Gtp7RxRst" alt="" coords="405,5,491,32"/>
 <area shape="rect" id="node3" href="$classSynchronizerEdge.html" title="SynchronizerEdge(2)" alt="" coords="155,5,301,32"/>
 <area shape="rect" id="node4" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="6,107,106,133"/>
 <area shape="rect" id="node5" href="$classRstSync.html" title="RstSync(2)" alt="" coords="184,56,272,83"/>

@@ -16,7 +16,7 @@
 <area shape="rect" id="node8" href="$classSynchronizerVector.html" title="SynchronizerVector(2)" alt="" coords="155,107,309,133"/>
 <area shape="rect" id="node9" href="$classSimpleDualPortRam.html" title="SimpleDualPortRam" alt="" coords="161,5,303,32"/>
 <area shape="rect" id="node10" href="$classGLinkEncoder.html" title="GLinkEncoder" alt="" coords="619,385,725,412"/>
-<area shape="rect" id="node13" href="$classGtp7RxRst.html" title="entity &#160;gtp7 " alt="" coords="413,411,499,437"/>
+<area shape="rect" id="node13" href="$classGtp7RxRst.html" title="Gtp7RxRst" alt="" coords="413,411,499,437"/>
 <area shape="rect" id="node16" href="$classGtp7RxFixedLatPhaseAligner.html" title="Gtp7RxFixedLatPhaseAligner" alt="" coords="357,461,555,488"/>
 <area shape="rect" id="node18" href="$classGtp7TxRst.html" title="Gtp7TxRst" alt="" coords="413,360,499,387"/>
 <area shape="rect" id="node19" href="$classSynchronizer.html" title="Synchronizer(10)" alt="" coords="170,360,294,387"/>

@@ -33,7 +33,7 @@
 <area shape="rect" id="node25" href="$classPgp2bRxPhy.html" title="Pgp2bRxPhy" alt="" coords="25,664,125,691"/>
 <area shape="rect" id="node26" href="$classPgp2bRxCell.html" title="Pgp2bRxCell" alt="" coords="25,715,125,741"/>
 <area shape="rect" id="node28" href="$classDecoder8b10b.html" title="Decoder8b10b" alt="" coords="787,385,896,412"/>
-<area shape="rect" id="node30" href="$classGtp7RxRst.html" title="entity &#160;gtp7 " alt="" coords="450,309,537,336"/>
+<area shape="rect" id="node30" href="$classGtp7RxRst.html" title="Gtp7RxRst" alt="" coords="450,309,537,336"/>
 <area shape="rect" id="node34" href="$classGtp7TxRst.html" title="Gtp7TxRst" alt="" coords="451,259,536,285"/>
 <area shape="rect" id="node35" href="$classSynchronizer.html" title="Synchronizer(10)" alt="" coords="207,259,331,285"/>
 <area shape="rect" id="node39" href="$classAxiLiteCrossbar.html" title="AxiLiteCrossbar" alt="" coords="957,588,1073,615"/>

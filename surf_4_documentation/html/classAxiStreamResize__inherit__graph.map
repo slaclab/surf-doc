@@ -10,7 +10,7 @@
 <area shape="rect" id="node25" href="$classEthMacTxExportXgmii.html" title="EthMacTxExportXgmii" alt="" coords="358,360,511,387"/>
 <area shape="rect" id="node26" href="$classEthMacTxFifo.html" title="EthMacTxFifo" alt="" coords="833,373,937,400"/>
 <area shape="rect" id="node27" href="$classRssiCore.html" title="RssiCore" alt="" coords="396,461,473,488"/>
-<area shape="rect" id="node28" href="$classRssiCoreWrapper.html" title="entity &#160;rssi " alt="" coords="604,487,732,513"/>
+<area shape="rect" id="node28" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="604,487,732,513"/>
 <area shape="rect" id="node29" href="$classSaltTx.html" title="SaltTx" alt="" coords="405,563,465,589"/>
 <area shape="rect" id="node32" href="$classSrpV0AxiLite.html" title="SrpV0AxiLite" alt="" coords="385,613,484,640"/>
 <area shape="rect" id="node33" href="$classSrpV3AxiLite.html" title="SrpV3AxiLite" alt="" coords="385,664,484,691"/>
@@ -18,7 +18,7 @@
 <area shape="rect" id="node37" href="$classSsiAxiLiteMaster.html" title="SsiAxiLiteMaster" alt="" coords="374,765,495,792"/>
 <area shape="rect" id="node38" href="$classSsiCmdMaster.html" title="SsiCmdMaster" alt="" coords="380,816,489,843"/>
 <area shape="rect" id="node39" href="$classSsiIncrementingTx.html" title="SsiIncrementingTx" alt="" coords="369,867,501,893"/>
-<area shape="rect" id="node40" href="$classSsiInsertSof.html" title="SsiInsertSof" alt="" coords="388,917,481,944"/>
+<area shape="rect" id="node40" href="$classSsiInsertSof.html" title="entity &#160;ssi " alt="" coords="388,917,481,944"/>
 <area shape="rect" id="node42" href="$classSsiPrbsRx.html" title="SsiPrbsRx" alt="" coords="393,968,477,995"/>
 <area shape="rect" id="node43" href="$classSsiPrbsTx.html" title="SsiPrbsTx" alt="" coords="393,1019,476,1045"/>
 <area shape="rect" id="node45" href="$classSsiPrbsTxOld.html" title="SsiPrbsTxOld" alt="" coords="383,1069,487,1096"/>
@@ -37,7 +37,7 @@
 <area shape="rect" id="node17" href="$classXauiGth7.html" title="XauiGth7" alt="" coords="1188,424,1265,451"/>
 <area shape="rect" id="node18" href="$classXauiGthUltraScale.html" title="XauiGthUltraScale" alt="" coords="1161,475,1293,501"/>
 <area shape="rect" id="node19" href="$classXauiGtx7.html" title="XauiGtx7" alt="" coords="1188,525,1265,552"/>
-<area shape="rect" id="node22" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="844,297,927,324"/>
+<area shape="rect" id="node22" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="844,297,927,324"/>
 <area shape="rect" id="node24" href="$classEthMacTxExport.html" title="EthMacTxExport" alt="" coords="608,309,728,336"/>
 <area shape="rect" id="node30" href="$classSalt7Series.html" title="Salt7Series" alt="" coords="623,551,713,577"/>
 <area shape="rect" id="node31" href="$classSaltUltraScale.html" title="SaltUltraScale" alt="" coords="615,601,721,628"/>

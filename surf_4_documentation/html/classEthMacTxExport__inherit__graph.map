@@ -1,5 +1,5 @@
 <map id="EthMacTxExport" name="EthMacTxExport">
-<area shape="rect" id="node23" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="1365,335,1448,361"/>
+<area shape="rect" id="node23" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="1365,335,1448,361"/>
 <area shape="rect" id="node2" href="$classEthMacTxExportXlgmii.html" title="EthMacTxExportXlgmii" alt="" coords="992,284,1149,311"/>
 <area shape="rect" id="node3" href="$classEthMacTxExportXgmii.html" title="EthMacTxExportXgmii" alt="" coords="994,335,1147,361"/>
 <area shape="rect" id="node4" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2" alt="" coords="821,335,944,361"/>
@@ -36,7 +36,7 @@
 <area shape="rect" id="node28" href="$classGigEthGthUltraScaleWrapper.html" title="GigEthGthUltraScaleWrapper" alt="" coords="1865,157,2063,184"/>
 <area shape="rect" id="node30" href="$classGigEthGtp7Wrapper.html" title="GigEthGtp7Wrapper" alt="" coords="1893,208,2035,235"/>
 <area shape="rect" id="node32" href="$classGigEthGtx7Wrapper.html" title="GigEthGtx7Wrapper" alt="" coords="1893,259,2035,285"/>
-<area shape="rect" id="node34" href="$classTenGigEthGth7Wrapper.html" title="entity &#160;gth7 " alt="" coords="1881,309,2047,336"/>
+<area shape="rect" id="node34" href="$classTenGigEthGth7Wrapper.html" title="TenGigEthGth7Wrapper" alt="" coords="1881,309,2047,336"/>
 <area shape="rect" id="node36" href="$classTenGigEthGthUltraScaleWrapper.html" title="TenGigEthGthUltraScaleWrapper" alt="" coords="1854,360,2074,387"/>
 <area shape="rect" id="node38" href="$classTenGigEthGtx7Wrapper.html" title="TenGigEthGtx7Wrapper" alt="" coords="1881,411,2047,437"/>
 <area shape="rect" id="node40" href="$classXauiGth7Wrapper.html" title="XauiGth7Wrapper" alt="" coords="1899,461,2029,488"/>

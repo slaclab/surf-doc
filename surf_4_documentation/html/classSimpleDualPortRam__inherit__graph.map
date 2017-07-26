@@ -28,7 +28,7 @@
 <area shape="rect" id="node23" href="$classUartWrapper.html" title="UartWrapper" alt="" coords="615,1576,713,1603"/>
 <area shape="rect" id="node27" href="$classAd9249ReadoutGroup.html" title="Ad9249ReadoutGroup" alt="" coords="586,715,742,741"/>
 <area shape="rect" id="node28" href="$classAxiAd9467Reg.html" title="AxiAd9467Reg" alt="" coords="609,765,719,792"/>
-<area shape="rect" id="node29" href="$classAxiAds42lb69Deser.html" title="entity &#160;ads42lb69 " alt="" coords="595,816,733,843"/>
+<area shape="rect" id="node29" href="$classAxiAds42lb69Deser.html" title="AxiAds42lb69Deser" alt="" coords="595,816,733,843"/>
 <area shape="rect" id="node30" href="$classAxiAds42lb69Reg.html" title="AxiAds42lb69Reg" alt="" coords="600,867,728,893"/>
 <area shape="rect" id="node31" href="$classAxiDualPortRam.html" title="AxiDualPortRam" alt="" coords="604,1272,724,1299"/>
 <area shape="rect" id="node32" href="$classAxiLiteRingBuffer.html" title="AxiLiteRingBuffer" alt="" coords="601,917,727,944"/>
@@ -43,7 +43,7 @@
 <area shape="rect" id="node43" href="$classPgp2bAxi.html" title="Pgp2bAxi" alt="" coords="625,613,703,640"/>
 <area shape="rect" id="node44" href="$classRssiAxiLiteRegItf.html" title="RssiAxiLiteRegItf" alt="" coords="602,1120,726,1147"/>
 <area shape="rect" id="node45" href="$classSlvArraytoAxiLite.html" title="SlvArraytoAxiLite" alt="" coords="602,664,726,691"/>
-<area shape="rect" id="node38" href="$classRssiCoreWrapper.html" title="entity &#160;rssi " alt="" coords="1005,1171,1133,1197"/>
+<area shape="rect" id="node38" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="1005,1171,1133,1197"/>
 <area shape="rect" id="node47" href="$classAxiStreamDmaWrite.html" title="AxiStreamDmaWrite" alt="" coords="387,1500,530,1527"/>
 <area shape="rect" id="node48" href="$classEthMacTxCsum.html" title="EthMacTxCsum" alt="" coords="400,1551,517,1577"/>
 <area shape="rect" id="node49" href="$classJesdRxLane.html" title="JesdRxLane" alt="" coords="411,1601,507,1628"/>

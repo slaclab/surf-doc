@@ -1,7 +1,7 @@
 <map id="SynchronizerFifo" name="SynchronizerFifo">
 <area shape="rect" id="node9" href="$classAd9249ReadoutGroup.html" title="Ad9249ReadoutGroup" alt="" coords="906,18,1062,44"/>
 <area shape="rect" id="node10" href="$classAxiAd9467Reg.html" title="AxiAd9467Reg" alt="" coords="687,119,798,146"/>
-<area shape="rect" id="node12" href="$classAxiAds42lb69Deser.html" title="entity &#160;ads42lb69 " alt="" coords="673,170,812,196"/>
+<area shape="rect" id="node12" href="$classAxiAds42lb69Deser.html" title="AxiAds42lb69Deser" alt="" coords="673,170,812,196"/>
 <area shape="rect" id="node14" href="$classAxiAds42lb69Reg.html" title="AxiAds42lb69Reg" alt="" coords="679,220,807,247"/>
 <area shape="rect" id="node15" href="$classAxiDualPortRam.html" title="AxiDualPortRam" alt="" coords="683,271,803,298"/>
 <area shape="rect" id="node20" href="$classAxiLiteRingBuffer.html" title="AxiLiteRingBuffer" alt="" coords="680,322,805,348"/>
@@ -37,7 +37,7 @@
 <area shape="rect" id="node22" href="$classAxiLtc2270Core.html" title="AxiLtc2270Core" alt="" coords="925,398,1043,424"/>
 <area shape="rect" id="node26" href="$classRssiCore.html" title="RssiCore" alt="" coords="945,524,1023,551"/>
 <area shape="rect" id="node28" href="$classSsiPrbsRateGen.html" title="SsiPrbsRateGen" alt="" coords="923,575,1045,602"/>
-<area shape="rect" id="node27" href="$classRssiCoreWrapper.html" title="entity &#160;rssi " alt="" coords="1148,524,1276,551"/>
+<area shape="rect" id="node27" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="1148,524,1276,551"/>
 <area shape="rect" id="node32" href="$classJesd204bRx.html" title="Jesd204bRx" alt="" coords="936,727,1032,754"/>
 <area shape="rect" id="node33" href="$classJesd204bRxGthUltra.html" title="Jesd204bRxGthUltra" alt="" coords="1139,676,1285,703"/>
 <area shape="rect" id="node34" href="$classJesd204bRxGtx7.html" title="Jesd204bRxGtx7" alt="" coords="1150,727,1274,754"/>

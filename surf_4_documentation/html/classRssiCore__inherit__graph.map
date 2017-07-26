@@ -1,5 +1,5 @@
 <map id="RssiCore" name="RssiCore">
-<area shape="rect" id="node33" href="$classRssiCoreWrapper.html" title="entity &#160;rssi " alt="" coords="1253,335,1381,361"/>
+<area shape="rect" id="node33" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="1253,335,1381,361"/>
 <area shape="rect" id="node2" href="$classRssiAxiLiteRegItf.html" title="RssiAxiLiteRegItf" alt="" coords="761,56,885,83"/>
 <area shape="rect" id="node3" href="$classSynchronizerFifo.html" title="SynchronizerFifo(16)" alt="" coords="558,56,703,83"/>
 <area shape="rect" id="node4" href="$classFifoAsync.html" title="FifoAsync" alt="" coords="393,107,473,133"/>

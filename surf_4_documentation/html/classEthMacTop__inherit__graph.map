@@ -17,7 +17,7 @@
 <area shape="rect" id="node6" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="26,107,126,133"/>
 <area shape="rect" id="node7" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="11,56,141,83"/>
 <area shape="rect" id="node14" href="$classAxiStreamMux.html" title="AxiStreamMux" alt="" coords="213,56,323,83"/>
-<area shape="rect" id="node8" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="796,157,879,184"/>
+<area shape="rect" id="node8" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="796,157,879,184"/>
 <area shape="rect" id="node9" href="$classEthMacTxBypass.html" title="EthMacTxBypass" alt="" coords="600,107,725,133"/>
 <area shape="rect" id="node10" href="$classEthMacTxCsum.html" title="EthMacTxCsum(2)" alt="" coords="401,107,535,133"/>
 <area shape="rect" id="node11" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline(2)" alt="" coords="195,157,341,184"/>
@@ -41,7 +41,7 @@
 <area shape="rect" id="node33" href="$classGigEthGthUltraScaleWrapper.html" title="GigEthGthUltraScaleWrapper" alt="" coords="1313,56,1511,83"/>
 <area shape="rect" id="node35" href="$classGigEthGtp7Wrapper.html" title="GigEthGtp7Wrapper" alt="" coords="1341,107,1483,133"/>
 <area shape="rect" id="node37" href="$classGigEthGtx7Wrapper.html" title="GigEthGtx7Wrapper" alt="" coords="1341,157,1483,184"/>
-<area shape="rect" id="node39" href="$classTenGigEthGth7Wrapper.html" title="entity &#160;gth7 " alt="" coords="1329,208,1495,235"/>
+<area shape="rect" id="node39" href="$classTenGigEthGth7Wrapper.html" title="TenGigEthGth7Wrapper" alt="" coords="1329,208,1495,235"/>
 <area shape="rect" id="node41" href="$classTenGigEthGthUltraScaleWrapper.html" title="TenGigEthGthUltraScaleWrapper" alt="" coords="1302,259,1522,285"/>
 <area shape="rect" id="node43" href="$classTenGigEthGtx7Wrapper.html" title="TenGigEthGtx7Wrapper" alt="" coords="1329,309,1495,336"/>
 <area shape="rect" id="node45" href="$classXauiGth7Wrapper.html" title="XauiGth7Wrapper" alt="" coords="1347,360,1477,387"/>

@@ -16,7 +16,7 @@
 <area shape="rect" id="node15" href="$classFifo.html" title="Fifo(4)" alt="" coords="6,335,66,361"/>
 <area shape="rect" id="node16" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="120,385,251,412"/>
 <area shape="rect" id="node23" href="$classAxiStreamMux.html" title="AxiStreamMux" alt="" coords="335,487,444,513"/>
-<area shape="rect" id="node17" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="1028,360,1111,387"/>
+<area shape="rect" id="node17" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="1028,360,1111,387"/>
 <area shape="rect" id="node18" href="$classEthMacTxBypass.html" title="EthMacTxBypass" alt="" coords="788,360,913,387"/>
 <area shape="rect" id="node19" href="$classEthMacTxCsum.html" title="EthMacTxCsum(2)" alt="" coords="543,208,676,235"/>
 <area shape="rect" id="node20" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline(2)" alt="" coords="316,309,463,336"/>

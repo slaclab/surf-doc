@@ -8,7 +8,9 @@ var dir_13dfeeed9d436b3a79c94c8aae99fd82 =
     [ "FifoCascade.vhd", "FifoCascade_8vhd.html", [
       [ "FifoCascade.mapping", "classFifoCascade_1_1mapping.html", "classFifoCascade_1_1mapping" ]
     ] ],
-    [ "FifoMux.vhd", "FifoMux_8vhd.html", null ],
+    [ "FifoMux.vhd", "FifoMux_8vhd.html", [
+      [ "FifoMux", "classFifoMux.html", "classFifoMux" ]
+    ] ],
     [ "FifoOutputPipeline.vhd", "FifoOutputPipeline_8vhd.html", null ],
     [ "FifoSync.vhd", "FifoSync_8vhd.html", null ],
     [ "FifoSyncBuiltIn.vhd", "FifoSyncBuiltIn_8vhd.html", [

@@ -12,7 +12,7 @@
 <area shape="rect" id="node38" href="$classSynchronizerEdge.html" title="SynchronizerEdge" alt="" coords="312,841,443,868"/>
 <area shape="rect" id="node10" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="120,385,251,412"/>
 <area shape="rect" id="node17" href="$classAxiStreamMux.html" title="AxiStreamMux" alt="" coords="323,259,432,285"/>
-<area shape="rect" id="node11" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="1004,487,1087,513"/>
+<area shape="rect" id="node11" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="1004,487,1087,513"/>
 <area shape="rect" id="node12" href="$classEthMacTxBypass.html" title="EthMacTxBypass" alt="" coords="741,461,867,488"/>
 <area shape="rect" id="node13" href="$classEthMacTxCsum.html" title="EthMacTxCsum(2)" alt="" coords="517,613,651,640"/>
 <area shape="rect" id="node14" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline(2)" alt="" coords="304,613,451,640"/>

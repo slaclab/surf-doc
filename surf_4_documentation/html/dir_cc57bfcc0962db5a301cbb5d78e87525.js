@@ -11,7 +11,9 @@ var dir_cc57bfcc0962db5a301cbb5d78e87525 =
     [ "SsiFrameLimiter.vhd", "SsiFrameLimiter_8vhd.html", null ],
     [ "SsiIbFrameFilter.vhd", "SsiIbFrameFilter_8vhd.html", null ],
     [ "SsiIncrementingTx.vhd", "SsiIncrementingTx_8vhd.html", null ],
-    [ "SsiInsertSof.vhd", "SsiInsertSof_8vhd.html", null ],
+    [ "SsiInsertSof.vhd", "SsiInsertSof_8vhd.html", [
+      [ "SsiInsertSof", "classSsiInsertSof.html", "classSsiInsertSof" ]
+    ] ],
     [ "SsiObFrameFilter.vhd", "SsiObFrameFilter_8vhd.html", null ],
     [ "SsiPkg.vhd", "SsiPkg_8vhd.html", [
       [ "SsiPkg", "classSsiPkg.html", "classSsiPkg" ],

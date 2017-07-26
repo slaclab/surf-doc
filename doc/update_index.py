@@ -12,8 +12,8 @@ index.close()
 
 insert_line = "<a href='{}_{}_documentation/html/index.html'>Release {}</a></br>".format(name, release, release)
 
-
-index_lines.insert(7, insert_line)
+if insert_line not in index_lines:
+	index_lines.insert(7, insert_line)
 
 
 

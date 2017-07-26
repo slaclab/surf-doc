@@ -1,6 +1,6 @@
 <map id="SynchronizerVector" name="SynchronizerVector">
 <area shape="rect" id="node2" href="$classAd9249ReadoutGroup.html" title="Ad9249ReadoutGroup" alt="" coords="589,15,745,42"/>
-<area shape="rect" id="node3" href="$classAxiAds42lb69Deser.html" title="entity &#160;ads42lb69 " alt="" coords="597,103,736,130"/>
+<area shape="rect" id="node3" href="$classAxiAds42lb69Deser.html" title="AxiAds42lb69Deser" alt="" coords="597,103,736,130"/>
 <area shape="rect" id="node5" href="$classAxiLtc2270Deser.html" title="AxiLtc2270Deser" alt="" coords="605,172,729,199"/>
 <area shape="rect" id="node7" href="$classAxiStreamDmaRingRead.html" title="AxiStreamDmaRingRead" alt="" coords="192,1160,363,1187"/>
 <area shape="rect" id="node8" href="$classDeviceDna7Series.html" title="DeviceDna7Series" alt="" coords="211,1211,343,1238"/>
@@ -31,7 +31,7 @@
 <area shape="rect" id="node14" href="$classGigEthGthUltraScale.html" title="GigEthGthUltraScale" alt="" coords="594,806,739,832"/>
 <area shape="rect" id="node15" href="$classGigEthGtp7.html" title="GigEthGtp7" alt="" coords="621,856,713,883"/>
 <area shape="rect" id="node16" href="$classGigEthGtx7.html" title="GigEthGtx7" alt="" coords="621,907,712,934"/>
-<area shape="rect" id="node18" href="$classTenGigEthGth7Wrapper.html" title="entity &#160;gth7 " alt="" coords="828,958,993,984"/>
+<area shape="rect" id="node18" href="$classTenGigEthGth7Wrapper.html" title="TenGigEthGth7Wrapper" alt="" coords="828,958,993,984"/>
 <area shape="rect" id="node20" href="$classTenGigEthGthUltraScaleWrapper.html" title="TenGigEthGthUltraScaleWrapper" alt="" coords="801,1008,1021,1035"/>
 <area shape="rect" id="node22" href="$classTenGigEthGtx7Wrapper.html" title="TenGigEthGtx7Wrapper" alt="" coords="828,1059,993,1086"/>
 <area shape="rect" id="node29" href="$classJesdTxReg.html" title="JesdTxReg" alt="" coords="622,540,711,567"/>

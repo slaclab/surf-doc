@@ -1,5 +1,5 @@
 <map id="EthMacTxCsum" name="EthMacTxCsum">
-<area shape="rect" id="node20" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="1181,309,1264,336"/>
+<area shape="rect" id="node20" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="1181,309,1264,336"/>
 <area shape="rect" id="node2" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline(2)" alt="" coords="821,284,968,311"/>
 <area shape="rect" id="node3" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2" alt="" coords="833,335,956,361"/>
 <area shape="rect" id="node4" href="$classAxiStreamResize.html" title="AxiStreamResize(2)" alt="" coords="633,259,773,285"/>
@@ -33,7 +33,7 @@
 <area shape="rect" id="node25" href="$classGigEthGthUltraScaleWrapper.html" title="GigEthGthUltraScaleWrapper" alt="" coords="1681,132,1879,159"/>
 <area shape="rect" id="node27" href="$classGigEthGtp7Wrapper.html" title="GigEthGtp7Wrapper" alt="" coords="1709,183,1851,209"/>
 <area shape="rect" id="node29" href="$classGigEthGtx7Wrapper.html" title="GigEthGtx7Wrapper" alt="" coords="1709,233,1851,260"/>
-<area shape="rect" id="node31" href="$classTenGigEthGth7Wrapper.html" title="entity &#160;gth7 " alt="" coords="1697,284,1863,311"/>
+<area shape="rect" id="node31" href="$classTenGigEthGth7Wrapper.html" title="TenGigEthGth7Wrapper" alt="" coords="1697,284,1863,311"/>
 <area shape="rect" id="node33" href="$classTenGigEthGthUltraScaleWrapper.html" title="TenGigEthGthUltraScaleWrapper" alt="" coords="1670,335,1890,361"/>
 <area shape="rect" id="node35" href="$classTenGigEthGtx7Wrapper.html" title="TenGigEthGtx7Wrapper" alt="" coords="1697,385,1863,412"/>
 <area shape="rect" id="node37" href="$classXauiGth7Wrapper.html" title="XauiGth7Wrapper" alt="" coords="1715,436,1845,463"/>

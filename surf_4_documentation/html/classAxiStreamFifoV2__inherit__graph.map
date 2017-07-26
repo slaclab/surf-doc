@@ -9,7 +9,7 @@
 <area shape="rect" id="node29" href="$classEthMacTxExportXgmii.html" title="EthMacTxExportXgmii" alt="" coords="1001,360,1154,387"/>
 <area shape="rect" id="node30" href="$classEthMacTxFifo.html" title="EthMacTxFifo" alt="" coords="1459,401,1563,428"/>
 <area shape="rect" id="node31" href="$classRssiCore.html" title="RssiCore" alt="" coords="1039,512,1116,539"/>
-<area shape="rect" id="node32" href="$classRssiCoreWrapper.html" title="entity &#160;rssi " alt="" coords="1247,487,1375,513"/>
+<area shape="rect" id="node32" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="1247,487,1375,513"/>
 <area shape="rect" id="node33" href="$classSaltTx.html" title="SaltTx" alt="" coords="1047,563,1107,589"/>
 <area shape="rect" id="node36" href="$classSrpV0AxiLite.html" title="SrpV0AxiLite" alt="" coords="1028,613,1127,640"/>
 <area shape="rect" id="node37" href="$classSrpV3AxiLite.html" title="SrpV3AxiLite" alt="" coords="1028,664,1127,691"/>
@@ -17,7 +17,7 @@
 <area shape="rect" id="node40" href="$classSsiAxiLiteMaster.html" title="SsiAxiLiteMaster" alt="" coords="1017,765,1138,792"/>
 <area shape="rect" id="node41" href="$classSsiCmdMaster.html" title="SsiCmdMaster" alt="" coords="1023,816,1132,843"/>
 <area shape="rect" id="node42" href="$classSsiIncrementingTx.html" title="SsiIncrementingTx" alt="" coords="1011,867,1143,893"/>
-<area shape="rect" id="node43" href="$classSsiInsertSof.html" title="SsiInsertSof" alt="" coords="1031,917,1124,944"/>
+<area shape="rect" id="node43" href="$classSsiInsertSof.html" title="entity &#160;ssi " alt="" coords="1031,917,1124,944"/>
 <area shape="rect" id="node45" href="$classSsiPrbsRx.html" title="SsiPrbsRx" alt="" coords="1035,968,1119,995"/>
 <area shape="rect" id="node46" href="$classSsiPrbsTx.html" title="SsiPrbsTx" alt="" coords="1036,1019,1119,1045"/>
 <area shape="rect" id="node47" href="$classSsiPrbsTxOld.html" title="SsiPrbsTxOld" alt="" coords="1025,1069,1129,1096"/>
@@ -40,7 +40,7 @@
 <area shape="rect" id="node11" href="$classSimpleDualPortRam.html" title="SimpleDualPortRam" alt="" coords="161,259,303,285"/>
 <area shape="rect" id="node17" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="637,664,768,691"/>
 <area shape="rect" id="node22" href="$classEthMacRxImport.html" title="EthMacRxImport" alt="" coords="1250,196,1371,223"/>
-<area shape="rect" id="node25" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="1469,332,1552,359"/>
+<area shape="rect" id="node25" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="1469,332,1552,359"/>
 <area shape="rect" id="node26" href="$classEthMacTop.html" title="EthMacTop" alt="" coords="1611,367,1701,393"/>
 <area shape="rect" id="node28" href="$classEthMacTxExport.html" title="EthMacTxExport" alt="" coords="1251,332,1371,359"/>
 <area shape="rect" id="node34" href="$classSalt7Series.html" title="Salt7Series" alt="" coords="1265,551,1356,577"/>

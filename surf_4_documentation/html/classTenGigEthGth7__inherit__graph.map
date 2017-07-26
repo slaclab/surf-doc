@@ -1,5 +1,5 @@
 <map id="TenGigEthGth7" name="TenGigEthGth7">
-<area shape="rect" id="node49" href="$classTenGigEthGth7Wrapper.html" title="entity &#160;gth7 " alt="" coords="1395,316,1560,343"/>
+<area shape="rect" id="node49" href="$classTenGigEthGth7Wrapper.html" title="TenGigEthGth7Wrapper" alt="" coords="1395,316,1560,343"/>
 <area shape="rect" id="node2" href="$classAxiLiteAsync.html" title="AxiLiteAsync" alt="" coords="1079,107,1177,133"/>
 <area shape="rect" id="node3" href="$classRstSync.html" title="RstSync(2)" alt="" coords="697,5,785,32"/>
 <area shape="rect" id="node5" href="$classFifoAsync.html" title="FifoAsync(5)" alt="" coords="911,107,1009,133"/>
@@ -17,7 +17,7 @@
 <area shape="rect" id="node14" href="$classFifoCascade.html" title="FifoCascade(2)" alt="" coords="19,392,133,419"/>
 <area shape="rect" id="node15" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="11,443,141,469"/>
 <area shape="rect" id="node22" href="$classAxiStreamMux.html" title="AxiStreamMux" alt="" coords="225,531,335,557"/>
-<area shape="rect" id="node16" href="$classEthMacTx.html" title="entity &#160;EthMacCore " alt="" coords="919,397,1001,424"/>
+<area shape="rect" id="node16" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="919,397,1001,424"/>
 <area shape="rect" id="node17" href="$classEthMacTxBypass.html" title="EthMacTxBypass" alt="" coords="679,309,804,336"/>
 <area shape="rect" id="node18" href="$classEthMacTxCsum.html" title="EthMacTxCsum(2)" alt="" coords="433,309,567,336"/>
 <area shape="rect" id="node19" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline(2)" alt="" coords="207,353,353,380"/>

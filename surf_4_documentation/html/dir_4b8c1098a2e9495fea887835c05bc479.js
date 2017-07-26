@@ -16,7 +16,6 @@ var dir_4b8c1098a2e9495fea887835c05bc479 =
     ] ],
     [ "Gtp7RxFixedLatPhaseAligner.vhd", "Gtp7RxFixedLatPhaseAligner_8vhd.html", null ],
     [ "Gtp7RxRst.vhd", "Gtp7RxRst_8vhd.html", [
-      [ "Gtp7RxRst", "classGtp7RxRst.html", "classGtp7RxRst" ],
       [ "Gtp7RxRst.RTL", "classGtp7RxRst_1_1RTL.html", "classGtp7RxRst_1_1RTL" ]
     ] ],
     [ "Gtp7RxRstSeq.vhd", "Gtp7RxRstSeq_8vhd.html", [

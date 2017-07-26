@@ -16,7 +16,9 @@ var dir_15672cf30e76a9ad5649938d9211d2ee =
     [ "JesdRxReg.vhd", "JesdRxReg_8vhd.html", null ],
     [ "JesdSyncFsmRx.vhd", "JesdSyncFsmRx_8vhd.html", null ],
     [ "JesdSyncFsmTx.vhd", "JesdSyncFsmTx_8vhd.html", null ],
-    [ "JesdSyncFsmTxTest.vhd", "JesdSyncFsmTxTest_8vhd.html", null ],
+    [ "JesdSyncFsmTxTest.vhd", "JesdSyncFsmTxTest_8vhd.html", [
+      [ "JesdSyncFsmTxTest", "classJesdSyncFsmTxTest.html", "classJesdSyncFsmTxTest" ]
+    ] ],
     [ "JesdSysrefDly.vhd", "JesdSysrefDly_8vhd.html", null ],
     [ "JesdTestSigGen.vhd", "JesdTestSigGen_8vhd.html", null ],
     [ "JesdTestStreamTx.vhd", "JesdTestStreamTx_8vhd.html", null ],
