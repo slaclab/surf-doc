@@ -91,7 +91,7 @@ else
 	#move documentation to docs folder
 	cd ..
 	cp -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/doc/html/. "${HTML_PATH}"
-	#rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
+	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 	#add release link to index for documentation
 	python doc/update_index.py "${NAME}" "${RELEASE}"

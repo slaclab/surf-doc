@@ -1,8 +1,0 @@
-<map id="GigEthCore" name="GigEthCore">
-<area shape="rect" id="node1" href="$group__ethernet__GigEthCore__gtp7.html" title="The ethernet_GigEthCore_gtp7 page. " alt="" coords="295,5,343,32"/>
-<area shape="rect" id="node2" href="$group__ethernet__GigEthCore__gthUltraScale.html" title="The ethernet_GigEthCore_gthUltraScale page. " alt="" coords="267,56,370,83"/>
-<area shape="rect" id="node3" href="$group__ethernet__GigEthCore__core.html" title="The ethernet_GigEthCore_core page. " alt="" coords="295,107,343,133"/>
-<area shape="rect" id="node4" href="$group__ethernet__GigEthCore__gtx7.html" title="The ethernet_GigEthCore_gtx7 page. " alt="" coords="295,157,342,184"/>
-<area shape="rect" id="node5" href="$group__ethernet.html" title="The ethernet page. " alt="" coords="6,107,77,133"/>
-<area shape="rect" id="node6" href="$group__ethernet__GigEthCore__gth7.html" title="The ethernet_GigEthCore_gth7 page. " alt="" coords="295,208,343,235"/>
-</map>

@@ -175,7 +175,8 @@ else:
 		#protocols 
 		#ethernet 
 		#devices
-		
+
+
 	new_modules =[]
 
 	new_modules = replace_groups("base", modules, new_modules)
@@ -188,11 +189,8 @@ else:
 	new_modules = replace_groups("base/ram", modules, new_modules)
 	new_modules = replace_groups("base/fifo", modules, new_modules)
 
-
-	for group in modules:
-		new_modules = replace_groups(group, modules, new_modules)
 	
-	modules = new_modules
+	modules = new_modules + modules
 
 
 	#create modules

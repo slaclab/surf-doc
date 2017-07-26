@@ -6,23 +6,23 @@
 
 import sys
 
-	file_oath = sys.argv[1]
-	before_line = sys.argv[2]
-	after_line = sys.aragv[3]
+file_path = sys.argv[1]
+before_line = sys.argv[2]
+after_line = sys.argv[3]
 
-	file = open(file_path,'r')
-	file_lines = file.readlines()
-	file.close()
+file = open(file_path,'r')
+file_lines = file.readlines()
+file.close()
 
-	file = open(file_path,'w')
+file = open(file_path,'w')
 
-	for line in file_lines:
-		if before_line not in line:
-			file.write(line)
-		else:
-			file.write(after_line)
-
-	file.close()
+for line in file_lines:
+	if before_line not in line:
+		file.write(line)
+	else:
+		file.write(after_line)
+		file.write('\n')
+file.close()
 
 
 
