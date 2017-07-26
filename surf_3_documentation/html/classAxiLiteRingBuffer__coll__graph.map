@@ -1,0 +1,17 @@
+<map id="AxiLiteRingBuffer" name="AxiLiteRingBuffer">
+<area shape="rect" id="node2" href="$classDualPortRam.html" title="DualPortRam" alt="" coords="575,44,678,71"/>
+<area shape="rect" id="node3" href="$classTrueDualPortRam.html" title="TrueDualPortRam" alt="" coords="369,5,498,32"/>
+<area shape="rect" id="node4" href="$classQuadPortRam.html" title="QuadPortRam" alt="" coords="380,56,487,83"/>
+<area shape="rect" id="node5" href="$classSynchronizer.html" title="Synchronizer(3)" alt="" coords="569,95,685,121"/>
+<area shape="rect" id="node6" href="$classSynchronizerOneShot.html" title="SynchronizerOneShot" alt="" coords="357,132,509,159"/>
+<area shape="rect" id="node7" href="$classRstSync.html" title="RstSync" alt="" coords="196,81,268,108"/>
+<area shape="rect" id="node8" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="6,132,106,159"/>
+<area shape="rect" id="node9" href="$classSynchronizerEdge.html" title="SynchronizerEdge" alt="" coords="167,132,297,159"/>
+<area shape="rect" id="node12" href="$classRstSync.html" title="RstSync(2)" alt="" coords="188,183,276,209"/>
+<area shape="rect" id="node10" href="$classSynchronizerFifo.html" title="SynchronizerFifo(2)" alt="" coords="557,219,696,245"/>
+<area shape="rect" id="node11" href="$classFifoAsync.html" title="FifoAsync" alt="" coords="393,263,473,289"/>
+<area shape="rect" id="node13" href="$classFifoOutputPipeline.html" title="FifoOutputPipeline" alt="" coords="166,233,298,260"/>
+<area shape="rect" id="node14" href="$classSynchronizerVector.html" title="SynchronizerVector(2)" alt="" coords="155,284,309,311"/>
+<area shape="rect" id="node15" href="$classSynchronizer.html" title="Synchronizer(2)" alt="" coords="174,335,290,361"/>
+<area shape="rect" id="node16" href="$classSimpleDualPortRam.html" title="SimpleDualPortRam" alt="" coords="161,385,303,412"/>
+</map>
