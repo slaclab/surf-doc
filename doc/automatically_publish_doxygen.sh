@@ -32,14 +32,18 @@ if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ]; then
 	
 else
 	#create new folders for release
+	#rm -rf ~/"${NAME}"-doc
+	#mkdir ~/"${NAME}"-doc/
+
 	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 	mkdir -p ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"_documentation
 	mkdir -p ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"_documentation
+
 	#create html
-	rm -rf ${HTML_PATH}
 	HTML_PATH=~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"_documentation/html
+	rm -rf ${HTML_PATH}
 	mkdir -p ${HTML_PATH}
 
 	#clone repository to local machine
@@ -90,7 +94,8 @@ else
 
 	#move documentation to docs folder
 	cd ..
-	cp -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/doc/html/. "${HTML_PATH}"
+	cp -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"/html/. "${HTML_PATH}"
+
 	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 	#add release link to index for documentation
