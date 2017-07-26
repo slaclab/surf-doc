@@ -32,8 +32,8 @@ if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ]; then
 	
 else
 	#create new folders for release
-	#rm -rf ~/"${NAME}"-doc
-	#mkdir ~/"${NAME}"-doc/
+	rm -rf ~/"${NAME}"-doc
+	mkdir ~/"${NAME}"-doc/
 
 	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 	mkdir -p ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
@@ -49,7 +49,8 @@ else
 	#clone repository to local machine
 	cd ~/"${NAME}"-doc/
 	git commit -m "Staging for pull"
-	git pull
+	git init
+	git pull ${DOC_PATH}
 
 	git clone ${REPO_PATH} ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 	cd ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
@@ -99,12 +100,13 @@ else
 	rm -rf ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 	#add release link to index for documentation
-	python doc/update_index.py "${NAME}" "${RELEASE}"
+	python ~/"${NAME}"-doc/doc/update_index.py "${NAME}" "${RELEASE}"
 
 	#push to github
 	git add .
 	git commit -m "Automated documentation build for changeset ${CHANGESET}."
-	git push  
+	git remote add origin ${DOC_PATH}
+	git push origin master
 
 	
 fi

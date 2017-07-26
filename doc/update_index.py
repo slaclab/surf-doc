@@ -6,7 +6,7 @@ import sys
 
 name = sys.argv[1]
 release = sys.argv[2]
-index = open("index.html".format(name),'r')
+index = open("~/{}-doc/index.html".format(name),'r')
 index_lines = index.readlines()
 index.close()
 
