@@ -75,7 +75,7 @@ else
 	rm -rf ${GRAPHS_PATH}
 	mkdir -p ${GRAPHS_PATH} 
 
-	python doc/create_groups.py ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
+	python doc/create_groups.py ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}" ~/"${NAME}"-doc/"${NAME}"_"${RELEASE}"
 
 
 	#create html

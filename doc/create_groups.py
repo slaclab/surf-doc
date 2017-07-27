@@ -11,6 +11,7 @@ import xml.etree.ElementTree as ET
 
 
 startpath = sys.argv[1]
+xml_path = sys.argv[2]
 repository_name = os.path.basename(startpath)
 
 modules = []		 #list of modules (strings)
@@ -31,7 +32,7 @@ class_to_file = {} #map of classes to the files they are in
 class_members = {} #map class compounddef ids to memberdef ids
 
 try:
-	tree = ET.parse("{}/doc/xml/all.xml".format(startpath)) #tree of doxygen xml
+	tree = ET.parse("{}/xml/all.xml".format(xml_path)) #tree of doxygen xml
 	root = tree.getroot()
 
 except (IOError, ET.ParseError):
