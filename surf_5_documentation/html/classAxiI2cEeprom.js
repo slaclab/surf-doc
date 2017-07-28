@@ -1,6 +1,6 @@
 var classAxiI2cEeprom =
 [
-    [ "AxiI2cEeprom.mapping", "classAxiI2cEeprom_1_1mapping.html", "classAxiI2cEeprom_1_1mapping" ],
+    [ "mapping", "classAxiI2cEeprom_1_1mapping.html", "classAxiI2cEeprom_1_1mapping" ],
     [ "TPD_G", "classAxiI2cEeprom.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "ADDR_WIDTH_G", "classAxiI2cEeprom.html#a318aee66fca9cc246e7100155089fd61", null ],
     [ "POLL_TIMEOUT_G", "classAxiI2cEeprom.html#a2a322da3fa6739371fc44d8490d0772a", null ],

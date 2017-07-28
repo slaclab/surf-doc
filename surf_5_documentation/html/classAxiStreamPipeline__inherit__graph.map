@@ -7,7 +7,7 @@
 <area shape="rect" id="node17" href="$classAxiStreamDmaV2Read.html" title="AxiStreamDmaV2Read" alt="" coords="189,1373,349,1400"/>
 <area shape="rect" id="node19" href="$classAxiStreamFifo.html" title="AxiStreamFifo" alt="" coords="217,1424,322,1451"/>
 <area shape="rect" id="node20" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2" alt="" coords="208,1221,331,1248"/>
-<area shape="rect" id="node25" href="$classEthMacTxCsum.html" title="EthMacTxCsum" alt="" coords="429,664,547,691"/>
+<area shape="rect" id="node25" href="$classEthMacTxCsum.html" title="entity &#160;EthMacCore " alt="" coords="429,664,547,691"/>
 <area shape="rect" id="node34" href="$classSrpV3Core.html" title="SrpV3Core" alt="" coords="444,1931,532,1957"/>
 <area shape="rect" id="node44" href="$classAxiStreamMux.html" title="AxiStreamMux" alt="" coords="215,392,324,419"/>
 <area shape="rect" id="node46" href="$classAxiStreamPacketizer.html" title="AxiStreamPacketizer" alt="" coords="197,588,342,615"/>

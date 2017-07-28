@@ -1,7 +1,7 @@
 <map id="QuadPortRam" name="QuadPortRam">
 <area shape="rect" id="node2" href="$classAxiStreamPacketizerMux.html" title="AxiStreamPacketizerMux" alt="" coords="168,80,339,107"/>
 <area shape="rect" id="node3" href="$classDualPortRam.html" title="DualPortRam" alt="" coords="363,80,465,107"/>
-<area shape="rect" id="node11" href="$classRawEthFramerTx.html" title="RawEthFramerTx" alt="" coords="562,80,688,107"/>
+<area shape="rect" id="node11" href="$classRawEthFramerTx.html" title="entity &#160;RawEthFramer " alt="" coords="562,80,688,107"/>
 <area shape="rect" id="node4" href="$classAxiDualPortRam.html" title="AxiDualPortRam" alt="" coords="403,155,523,181"/>
 <area shape="rect" id="node9" href="$classAxiLiteRingBuffer.html" title="AxiLiteRingBuffer" alt="" coords="203,155,328,181"/>
 <area shape="rect" id="node10" href="$classAxiStreamDmaV2Write.html" title="AxiStreamDmaV2Write" alt="" coords="5,229,163,256"/>

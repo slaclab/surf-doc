@@ -1,6 +1,6 @@
 var classGtp7QuadPll =
 [
-    [ "Gtp7QuadPll.mapping", "classGtp7QuadPll_1_1mapping.html", "classGtp7QuadPll_1_1mapping" ],
+    [ "mapping", "classGtp7QuadPll_1_1mapping.html", "classGtp7QuadPll_1_1mapping" ],
     [ "TPD_G", "classGtp7QuadPll.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "AXI_ERROR_RESP_G", "classGtp7QuadPll.html#a8356101c711508ef98fa0822c2d858dc", null ],
     [ "SIM_RESET_SPEEDUP_G", "classGtp7QuadPll.html#a7a7cabfa5134b2cbdf1c84f5de272123", null ],

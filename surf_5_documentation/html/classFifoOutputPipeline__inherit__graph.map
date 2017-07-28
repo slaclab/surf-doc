@@ -31,7 +31,7 @@
 <area shape="rect" id="node28" href="$classAxiLiteRingBuffer.html" title="AxiLiteRingBuffer" alt="" coords="568,1475,693,1501"/>
 <area shape="rect" id="node29" href="$classAxiLtc2270Deser.html" title="AxiLtc2270Deser" alt="" coords="569,461,693,488"/>
 <area shape="rect" id="node30" href="$classAxiLtc2270Reg.html" title="AxiLtc2270Reg" alt="" coords="575,512,687,539"/>
-<area shape="rect" id="node31" href="$classAxiMemTester.html" title="AxiMemTester" alt="" coords="577,563,685,589"/>
+<area shape="rect" id="node31" href="$classAxiMemTester.html" title="entity &#160;axi " alt="" coords="577,563,685,589"/>
 <area shape="rect" id="node32" href="$classAxiStreamMon.html" title="AxiStreamMon" alt="" coords="576,613,685,640"/>
 <area shape="rect" id="node33" href="$classGLinkGtp7FixedLat.html" title="GLinkGtp7FixedLat" alt="" coords="562,664,699,691"/>
 <area shape="rect" id="node34" href="$classGLinkGtx7FixedLat.html" title="GLinkGtx7FixedLat" alt="" coords="563,715,699,741"/>
@@ -45,6 +45,6 @@
 <area shape="rect" id="node42" href="$classSynchronizerOneShotCnt.html" title="SynchronizerOneShotCnt" alt="" coords="544,1120,717,1147"/>
 <area shape="rect" id="node43" href="$classXauiReg.html" title="XauiReg" alt="" coords="594,1171,667,1197"/>
 <area shape="rect" id="node46" href="$classAxiStreamDmaWrite.html" title="AxiStreamDmaWrite" alt="" coords="353,1753,495,1780"/>
-<area shape="rect" id="node47" href="$classEthMacTxCsum.html" title="EthMacTxCsum" alt="" coords="365,1652,483,1679"/>
+<area shape="rect" id="node47" href="$classEthMacTxCsum.html" title="entity &#160;EthMacCore " alt="" coords="365,1652,483,1679"/>
 <area shape="rect" id="node48" href="$classJesdRxLane.html" title="JesdRxLane" alt="" coords="376,1703,472,1729"/>
 </map>

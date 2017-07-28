@@ -1,6 +1,6 @@
 var classAxiAds42lb69Core =
 [
-    [ "AxiAds42lb69Core.mapping", "classAxiAds42lb69Core_1_1mapping.html", "classAxiAds42lb69Core_1_1mapping" ],
+    [ "mapping", "classAxiAds42lb69Core_1_1mapping.html", "classAxiAds42lb69Core_1_1mapping" ],
     [ "TPD_G", "classAxiAds42lb69Core.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "SIM_SPEEDUP_G", "classAxiAds42lb69Core.html#af30021898e964025ce5297b609d506ae", null ],
     [ "USE_PLL_G", "classAxiAds42lb69Core.html#a32d85c6bc25c123d1255e4f715ce0472", null ],

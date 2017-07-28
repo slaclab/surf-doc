@@ -1,6 +1,6 @@
 <map id="EthMacTx" name="EthMacTx">
 <area shape="rect" id="node2" href="$classEthMacTxBypass.html" title="EthMacTxBypass" alt="" coords="1221,5,1347,32"/>
-<area shape="rect" id="node3" href="$classEthMacTxCsum.html" title="EthMacTxCsum(2)" alt="" coords="1028,5,1161,32"/>
+<area shape="rect" id="node3" href="$classEthMacTxCsum.html" title="entity &#160;EthMacCore " alt="" coords="1028,5,1161,32"/>
 <area shape="rect" id="node4" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline(2)" alt="" coords="821,5,968,32"/>
 <area shape="rect" id="node5" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2" alt="" coords="833,107,956,133"/>
 <area shape="rect" id="node26" href="$classEthMacTxExportXgmii.html" title="EthMacTxExportXgmii" alt="" coords="1018,107,1171,133"/>

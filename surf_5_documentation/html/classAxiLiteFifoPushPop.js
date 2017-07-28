@@ -1,6 +1,6 @@
 var classAxiLiteFifoPushPop =
 [
-    [ "AxiLiteFifoPushPop.structure", "classAxiLiteFifoPushPop_1_1structure.html", "classAxiLiteFifoPushPop_1_1structure" ],
+    [ "structure", "classAxiLiteFifoPushPop_1_1structure.html", "classAxiLiteFifoPushPop_1_1structure" ],
     [ "TPD_G", "classAxiLiteFifoPushPop.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "POP_FIFO_COUNT_G", "classAxiLiteFifoPushPop.html#ad64548faad33edfd732196865ba74955", null ],
     [ "POP_SYNC_FIFO_G", "classAxiLiteFifoPushPop.html#a67176357ea407b80a1d35dc0a01493ca", null ],

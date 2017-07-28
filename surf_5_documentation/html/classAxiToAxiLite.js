@@ -1,6 +1,6 @@
 var classAxiToAxiLite =
 [
-    [ "AxiToAxiLite.mapping", "classAxiToAxiLite_1_1mapping.html", "classAxiToAxiLite_1_1mapping" ],
+    [ "mapping", "classAxiToAxiLite_1_1mapping.html", "classAxiToAxiLite_1_1mapping" ],
     [ "TPD_G", "classAxiToAxiLite.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "axiClk", "classAxiToAxiLite.html#a7d8781c632c75ab0fdde6e592fd13d60", null ],
     [ "axiClkRst", "classAxiToAxiLite.html#aaa3f2a49ba9c27af6fc938205e371307", null ],

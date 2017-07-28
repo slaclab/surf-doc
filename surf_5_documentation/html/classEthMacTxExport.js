@@ -1,6 +1,6 @@
 var classEthMacTxExport =
 [
-    [ "EthMacTxExport.mapping", "classEthMacTxExport_1_1mapping.html", "classEthMacTxExport_1_1mapping" ],
+    [ "mapping", "classEthMacTxExport_1_1mapping.html", "classEthMacTxExport_1_1mapping" ],
     [ "TPD_G", "classEthMacTxExport.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "PHY_TYPE_G", "classEthMacTxExport.html#a19dc942c6cdea9502f239c68a1c58b49", null ],
     [ "ethClk", "classEthMacTxExport.html#aa454832f4c517041d344f7bdf52eceec", null ],

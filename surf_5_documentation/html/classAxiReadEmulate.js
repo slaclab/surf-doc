@@ -1,6 +1,6 @@
 var classAxiReadEmulate =
 [
-    [ "AxiReadEmulate.structure", "classAxiReadEmulate_1_1structure.html", "classAxiReadEmulate_1_1structure" ],
+    [ "structure", "classAxiReadEmulate_1_1structure.html", "classAxiReadEmulate_1_1structure" ],
     [ "TPD_G", "classAxiReadEmulate.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "LATENCY_G", "classAxiReadEmulate.html#ae3985b6ba797f717a132f23ec92a8506", null ],
     [ "AXI_CONFIG_G", "classAxiReadEmulate.html#ac4846a113db5091362e41049a6e0a221", null ],

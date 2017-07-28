@@ -26,7 +26,7 @@ var classi2c__master__byte__ctrl =
     [ "sda_i", "classi2c__master__byte__ctrl.html#a22a5b78c377610cba5318a7de5488ca6", null ],
     [ "sda_o", "classi2c__master__byte__ctrl.html#ad2c47fd5f08ecd59c02cea305c5d839c", null ],
     [ "sda_oen", "classi2c__master__byte__ctrl.html#a0b4b49b4b0e9738cf00141b163cf43bb", null ],
-    [ "ieee", "classi2c__master__byte__ctrl.html#a0a6af6eef40212dbaf130d57ce711256", null ],
+    [ "ieee", "group__protocols__i2c.html#ga0a6af6eef40212dbaf130d57ce711256", null ],
     [ "std_logic_1164", "classi2c__master__byte__ctrl.html#acd03516902501cd1c7296a98e22c6fcb", null ],
     [ "stdlib", "classi2c__master__byte__ctrl.html#aa82ea1c9566ae673f45256e23997589a", null ]
 ];

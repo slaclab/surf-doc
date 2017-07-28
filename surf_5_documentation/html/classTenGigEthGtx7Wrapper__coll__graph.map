@@ -24,7 +24,7 @@
 <area shape="rect" id="node28" href="$classAxiStreamMux.html" title="AxiStreamMux" alt="" coords="217,856,327,882"/>
 <area shape="rect" id="node22" href="$classEthMacTx.html" title="EthMacTx" alt="" coords="887,780,969,806"/>
 <area shape="rect" id="node23" href="$classEthMacTxBypass.html" title="EthMacTxBypass" alt="" coords="647,780,772,806"/>
-<area shape="rect" id="node24" href="$classEthMacTxCsum.html" title="EthMacTxCsum(2)" alt="" coords="409,805,543,832"/>
+<area shape="rect" id="node24" href="$classEthMacTxCsum.html" title="entity &#160;EthMacCore " alt="" coords="409,805,543,832"/>
 <area shape="rect" id="node25" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline(2)" alt="" coords="199,805,345,832"/>
 <area shape="rect" id="node31" href="$classEthMacTxExportXgmii.html" title="EthMacTxExportXgmii" alt="" coords="399,628,553,654"/>
 <area shape="rect" id="node32" href="$classEthMacTxExportGmii.html" title="EthMacTxExportGmii" alt="" coords="402,577,550,604"/>

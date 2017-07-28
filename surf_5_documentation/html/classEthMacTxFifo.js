@@ -1,6 +1,6 @@
 var classEthMacTxFifo =
 [
-    [ "EthMacTxFifo.mapping", "classEthMacTxFifo_1_1mapping.html", "classEthMacTxFifo_1_1mapping" ],
+    [ "mapping", "classEthMacTxFifo_1_1mapping.html", "classEthMacTxFifo_1_1mapping" ],
     [ "TPD_G", "classEthMacTxFifo.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "PRIM_COMMON_CLK_G", "classEthMacTxFifo.html#a6183506ca5c6fe6ab1b85a8bcc930197", null ],
     [ "PRIM_CONFIG_G", "classEthMacTxFifo.html#a3ce9fdc8b948728c6f27c331df080d09", null ],

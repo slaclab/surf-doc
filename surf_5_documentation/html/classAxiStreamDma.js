@@ -1,6 +1,6 @@
 var classAxiStreamDma =
 [
-    [ "AxiStreamDma.structure", "classAxiStreamDma_1_1structure.html", "classAxiStreamDma_1_1structure" ],
+    [ "structure", "classAxiStreamDma_1_1structure.html", "classAxiStreamDma_1_1structure" ],
     [ "TPD_G", "classAxiStreamDma.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "FREE_ADDR_WIDTH_G", "classAxiStreamDma.html#aed58bcbb2917e9aba7a93eb5c6c6f783", null ],
     [ "AXIL_COUNT_G", "classAxiStreamDma.html#a9c4e3b95706f2f3e3c0fef7d6ab39fdc", null ],

@@ -1,6 +1,6 @@
 <map id="FifoSync" name="FifoSync">
 <area shape="rect" id="node4" href="$classAxiStreamDmaWrite.html" title="AxiStreamDmaWrite" alt="" coords="682,19,825,45"/>
-<area shape="rect" id="node9" href="$classEthMacTxCsum.html" title="EthMacTxCsum" alt="" coords="901,424,1019,451"/>
+<area shape="rect" id="node9" href="$classEthMacTxCsum.html" title="entity &#160;EthMacCore " alt="" coords="901,424,1019,451"/>
 <area shape="rect" id="node22" href="$classFifo.html" title="Fifo" alt="" coords="346,373,390,400"/>
 <area shape="rect" id="node46" href="$classJesdRxLane.html" title="JesdRxLane" alt="" coords="320,601,416,628"/>
 <area shape="rect" id="node2" href="$classFifoOutputPipeline.html" title="FifoOutputPipeline" alt="" coords="11,196,143,223"/>

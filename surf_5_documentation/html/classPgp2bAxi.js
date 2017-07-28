@@ -1,6 +1,6 @@
 var classPgp2bAxi =
 [
-    [ "Pgp2bAxi.structure", "classPgp2bAxi_1_1structure.html", "classPgp2bAxi_1_1structure" ],
+    [ "structure", "classPgp2bAxi_1_1structure.html", "classPgp2bAxi_1_1structure" ],
     [ "TPD_G", "classPgp2bAxi.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "COMMON_TX_CLK_G", "classPgp2bAxi.html#a1d11edc3131810ae5191fcf3f31bd928", null ],
     [ "COMMON_RX_CLK_G", "classPgp2bAxi.html#a55a8146a71c1cb6fca3ac0e06d31e1dd", null ],

@@ -1,6 +1,6 @@
 var classAxiWriteEmulate =
 [
-    [ "AxiWriteEmulate.structure", "classAxiWriteEmulate_1_1structure.html", "classAxiWriteEmulate_1_1structure" ],
+    [ "structure", "classAxiWriteEmulate_1_1structure.html", "classAxiWriteEmulate_1_1structure" ],
     [ "TPD_G", "classAxiWriteEmulate.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "LATENCY_G", "classAxiWriteEmulate.html#ae3985b6ba797f717a132f23ec92a8506", null ],
     [ "AXI_CONFIG_G", "classAxiWriteEmulate.html#ac4846a113db5091362e41049a6e0a221", null ],

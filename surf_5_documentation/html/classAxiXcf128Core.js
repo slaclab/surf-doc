@@ -1,6 +1,6 @@
 var classAxiXcf128Core =
 [
-    [ "AxiXcf128Core.mapping", "classAxiXcf128Core_1_1mapping.html", "classAxiXcf128Core_1_1mapping" ],
+    [ "mapping", "classAxiXcf128Core_1_1mapping.html", "classAxiXcf128Core_1_1mapping" ],
     [ "TPD_G", "classAxiXcf128Core.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "AXI_CLK_FREQ_G", "classAxiXcf128Core.html#a82571368c463a52e90b4676481bb0826", null ],
     [ "AXI_ERROR_RESP_G", "classAxiXcf128Core.html#ac8b54f80e6da989e756747f02f793b57", null ],

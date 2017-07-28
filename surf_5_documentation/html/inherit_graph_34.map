@@ -59,7 +59,7 @@
 <area shape="rect" id="node80" href="$classAxiStreamDmaV2Read.html" title="AxiStreamDmaV2Read" alt="" coords="885,1931,1045,1957"/>
 <area shape="rect" id="node81" href="$classAxiStreamFifo.html" title="AxiStreamFifo" alt="" coords="913,1069,1018,1096"/>
 <area shape="rect" id="node82" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2" alt="" coords="904,1627,1027,1653"/>
-<area shape="rect" id="node89" href="$classEthMacTxCsum.html" title="EthMacTxCsum" alt="" coords="1147,1981,1264,2008"/>
+<area shape="rect" id="node89" href="$classEthMacTxCsum.html" title="entity &#160;EthMacCore " alt="" coords="1147,1981,1264,2008"/>
 <area shape="rect" id="node101" href="$classSrpV3Core.html" title="SrpV3Core" alt="" coords="1161,917,1249,944"/>
 <area shape="rect" id="node113" href="$classAxiStreamMux.html" title="AxiStreamMux" alt="" coords="1151,664,1260,691"/>
 <area shape="rect" id="node115" href="$classAxiStreamPacketizer.html" title="AxiStreamPacketizer" alt="" coords="893,917,1038,944"/>
@@ -183,7 +183,7 @@
 <area shape="rect" id="node179" href="$classAxiDualPortRam.html" title="AxiDualPortRam" alt="" coords="905,2741,1025,2768"/>
 <area shape="rect" id="node181" href="$classAxiLiteRingBuffer.html" title="AxiLiteRingBuffer" alt="" coords="903,3197,1028,3224"/>
 <area shape="rect" id="node182" href="$classAxiLtc2270Reg.html" title="AxiLtc2270Reg" alt="" coords="668,3248,780,3275"/>
-<area shape="rect" id="node183" href="$classAxiMemTester.html" title="AxiMemTester" alt="" coords="670,3907,778,3933"/>
+<area shape="rect" id="node183" href="$classAxiMemTester.html" title="entity &#160;axi " alt="" coords="670,3907,778,3933"/>
 <area shape="rect" id="node184" href="$classAxiStreamMon.html" title="AxiStreamMon" alt="" coords="911,1576,1020,1603"/>
 <area shape="rect" id="node185" href="$classGLinkGtp7FixedLat.html" title="GLinkGtp7FixedLat" alt="" coords="655,4920,793,4947"/>
 <area shape="rect" id="node186" href="$classGLinkGtx7FixedLat.html" title="GLinkGtx7FixedLat" alt="" coords="656,5021,792,5048"/>
@@ -251,7 +251,7 @@
 <area shape="rect" id="node250" href="$classPgpGthCoreWrapper.html" title="PgpGthCoreWrapper" alt="" coords="1588,5173,1735,5200"/>
 <area shape="rect" id="node251" href="$classQuadPortRam.html" title="QuadPortRam" alt="" coords="459,2741,565,2768"/>
 <area shape="rect" id="node252" href="$classDualPortRam.html" title="DualPortRam" alt="" coords="673,2741,775,2768"/>
-<area shape="rect" id="node254" href="$classRawEthFramerTx.html" title="RawEthFramerTx" alt="" coords="661,2792,787,2819"/>
+<area shape="rect" id="node254" href="$classRawEthFramerTx.html" title="entity &#160;RawEthFramer " alt="" coords="661,2792,787,2819"/>
 <area shape="rect" id="node253" href="$classAxiStreamDmaV2Write.html" title="AxiStreamDmaV2Write" alt="" coords="886,2792,1045,2819"/>
 <area shape="rect" id="node255" href="$classRawEthFramer.html" title="RawEthFramer" alt="" coords="909,3299,1021,3325"/>
 <area shape="rect" id="node256" href="$classRawEthFramerRx.html" title="RawEthFramerRx" alt="" coords="660,3349,788,3376"/>

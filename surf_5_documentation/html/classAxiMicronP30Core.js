@@ -1,6 +1,6 @@
 var classAxiMicronP30Core =
 [
-    [ "AxiMicronP30Core.mapping", "classAxiMicronP30Core_1_1mapping.html", "classAxiMicronP30Core_1_1mapping" ],
+    [ "mapping", "classAxiMicronP30Core_1_1mapping.html", "classAxiMicronP30Core_1_1mapping" ],
     [ "TPD_G", "classAxiMicronP30Core.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "MEM_ADDR_MASK_G", "classAxiMicronP30Core.html#a15a935304c3063e086aeae8a09c9e2a0", null ],
     [ "AXI_CLK_FREQ_G", "classAxiMicronP30Core.html#a82571368c463a52e90b4676481bb0826", null ],

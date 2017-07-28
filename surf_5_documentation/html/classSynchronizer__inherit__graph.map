@@ -3,7 +3,7 @@
 <area shape="rect" id="node3" href="$classAxiAd9467Reg.html" title="AxiAd9467Reg" alt="" coords="618,34,729,61"/>
 <area shape="rect" id="node5" href="$classAxiLiteRingBuffer.html" title="AxiLiteRingBuffer" alt="" coords="611,237,736,263"/>
 <area shape="rect" id="node6" href="$classAxiLtc2270Reg.html" title="AxiLtc2270Reg" alt="" coords="617,85,729,111"/>
-<area shape="rect" id="node8" href="$classAxiMemTester.html" title="AxiMemTester" alt="" coords="619,313,727,339"/>
+<area shape="rect" id="node8" href="$classAxiMemTester.html" title="entity &#160;axi " alt="" coords="619,313,727,339"/>
 <area shape="rect" id="node9" href="$classAxiStreamDmaRingRead.html" title="AxiStreamDmaRingRead" alt="" coords="164,287,335,314"/>
 <area shape="rect" id="node10" href="$classAxiStreamFifo.html" title="AxiStreamFifo" alt="" coords="197,338,302,365"/>
 <area shape="rect" id="node11" href="$classDebouncer.html" title="Debouncer" alt="" coords="206,389,293,415"/>

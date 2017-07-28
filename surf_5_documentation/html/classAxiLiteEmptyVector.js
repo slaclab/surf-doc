@@ -1,6 +1,6 @@
 var classAxiLiteEmptyVector =
 [
-    [ "AxiLiteEmptyVector.mapping", "classAxiLiteEmptyVector_1_1mapping.html", "classAxiLiteEmptyVector_1_1mapping" ],
+    [ "mapping", "classAxiLiteEmptyVector_1_1mapping.html", "classAxiLiteEmptyVector_1_1mapping" ],
     [ "TPD_G", "classAxiLiteEmptyVector.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "WIDTH_G", "classAxiLiteEmptyVector.html#a40208b5b5ef6bcdfdb18ef9dcc5f194a", null ],
     [ "axiClk", "classAxiLiteEmptyVector.html#a7d8781c632c75ab0fdde6e592fd13d60", null ],

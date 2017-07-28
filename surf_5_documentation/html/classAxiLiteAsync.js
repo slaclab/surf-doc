@@ -1,6 +1,6 @@
 var classAxiLiteAsync =
 [
-    [ "AxiLiteAsync.STRUCTURE", "classAxiLiteAsync_1_1STRUCTURE.html", "classAxiLiteAsync_1_1STRUCTURE" ],
+    [ "STRUCTURE", "classAxiLiteAsync_1_1STRUCTURE.html", "classAxiLiteAsync_1_1STRUCTURE" ],
     [ "TPD_G", "classAxiLiteAsync.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "AXI_ERROR_RESP_G", "classAxiLiteAsync.html#ac8b54f80e6da989e756747f02f793b57", null ],
     [ "COMMON_CLK_G", "classAxiLiteAsync.html#a762b446ddef001083e8cfc52dc38385f", null ],

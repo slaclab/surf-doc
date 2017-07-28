@@ -1,6 +1,6 @@
 var classDualPortRam =
 [
-    [ "DualPortRam.mapping", "classDualPortRam_1_1mapping.html", "classDualPortRam_1_1mapping" ],
+    [ "mapping", "classDualPortRam_1_1mapping.html", "classDualPortRam_1_1mapping" ],
     [ "TPD_G", "classDualPortRam.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "RST_POLARITY_G", "classDualPortRam.html#a8a9f56ec06b173cf46dc7160fd7c1f30", null ],
     [ "BRAM_EN_G", "classDualPortRam.html#a1c9465c9431492ec79ab48827b02c46f", null ],

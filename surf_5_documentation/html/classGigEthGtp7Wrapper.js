@@ -1,6 +1,6 @@
 var classGigEthGtp7Wrapper =
 [
-    [ "GigEthGtp7Wrapper.mapping", "classGigEthGtp7Wrapper_1_1mapping.html", "classGigEthGtp7Wrapper_1_1mapping" ],
+    [ "mapping", "classGigEthGtp7Wrapper_1_1mapping.html", "classGigEthGtp7Wrapper_1_1mapping" ],
     [ "TPD_G", "classGigEthGtp7Wrapper.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "NUM_LANE_G", "classGigEthGtp7Wrapper.html#a29528ef32df8ce5923f00453713b6a92", null ],
     [ "USE_GTREFCLK_G", "classGigEthGtp7Wrapper.html#aabe4aa6c32ea361c8724a5ff2142bd32", null ],

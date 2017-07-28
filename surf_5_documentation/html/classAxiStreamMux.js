@@ -1,6 +1,6 @@
 var classAxiStreamMux =
 [
-    [ "AxiStreamMux.structure", "classAxiStreamMux_1_1structure.html", "classAxiStreamMux_1_1structure" ],
+    [ "structure", "classAxiStreamMux_1_1structure.html", "classAxiStreamMux_1_1structure" ],
     [ "TPD_G", "classAxiStreamMux.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "NUM_SLAVES_G", "classAxiStreamMux.html#ae3485c1b27875950a3d8ac70d6188e05", null ],
     [ "MODE_G", "classAxiStreamMux.html#adf33db7c14d9e2c22de126a4f7b466a6", null ],

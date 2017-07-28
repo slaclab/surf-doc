@@ -1,6 +1,6 @@
 var classAdiConfigSlave =
 [
-    [ "AdiConfigSlave.behavioral", "classAdiConfigSlave_1_1behavioral.html", "classAdiConfigSlave_1_1behavioral" ],
+    [ "behavioral", "classAdiConfigSlave_1_1behavioral.html", "classAdiConfigSlave_1_1behavioral" ],
     [ "TPD_G", "classAdiConfigSlave.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "clk", "classAdiConfigSlave.html#a8562dfa3c7970041e8fb901d9c0e4ecf", null ],
     [ "sclk", "classAdiConfigSlave.html#aa78edf1c1784f6b0933ba35c257d5700", null ],

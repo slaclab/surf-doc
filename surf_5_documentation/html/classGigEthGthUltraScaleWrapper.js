@@ -1,6 +1,6 @@
 var classGigEthGthUltraScaleWrapper =
 [
-    [ "GigEthGthUltraScaleWrapper.mapping", "classGigEthGthUltraScaleWrapper_1_1mapping.html", "classGigEthGthUltraScaleWrapper_1_1mapping" ],
+    [ "mapping", "classGigEthGthUltraScaleWrapper_1_1mapping.html", "classGigEthGthUltraScaleWrapper_1_1mapping" ],
     [ "TPD_G", "classGigEthGthUltraScaleWrapper.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "NUM_LANE_G", "classGigEthGthUltraScaleWrapper.html#a29528ef32df8ce5923f00453713b6a92", null ],
     [ "USE_GTREFCLK_G", "classGigEthGthUltraScaleWrapper.html#aabe4aa6c32ea361c8724a5ff2142bd32", null ],

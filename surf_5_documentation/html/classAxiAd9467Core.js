@@ -1,6 +1,6 @@
 var classAxiAd9467Core =
 [
-    [ "AxiAd9467Core.mapping", "classAxiAd9467Core_1_1mapping.html", "classAxiAd9467Core_1_1mapping" ],
+    [ "mapping", "classAxiAd9467Core_1_1mapping.html", "classAxiAd9467Core_1_1mapping" ],
     [ "TPD_G", "classAxiAd9467Core.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "STATUS_CNT_WIDTH_G", "classAxiAd9467Core.html#a88ffac2ab61bb803af9237ba80978c17", null ],
     [ "AXI_CLK_FREQ_G", "classAxiAd9467Core.html#a1de46f5dc5602d7d39c5786a1e156704", null ],

@@ -1,6 +1,6 @@
 var classAxiLtc2270Core =
 [
-    [ "AxiLtc2270Core.mapping", "classAxiLtc2270Core_1_1mapping.html", "classAxiLtc2270Core_1_1mapping" ],
+    [ "mapping", "classAxiLtc2270Core_1_1mapping.html", "classAxiLtc2270Core_1_1mapping" ],
     [ "TPD_G", "classAxiLtc2270Core.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "DMODE_INIT_G", "classAxiLtc2270Core.html#a9dac43f1d208d83e0853975fd3038356", null ],
     [ "DELAY_INIT_G", "classAxiLtc2270Core.html#a26d98d812e283e2965ed4120fb851691", null ],

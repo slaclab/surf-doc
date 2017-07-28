@@ -5,7 +5,7 @@
 <area shape="rect" id="node5" href="$classAxiStreamDmaRingWrite.html" title="AxiStreamDmaRingWrite" alt="" coords="349,107,520,133"/>
 <area shape="rect" id="node6" href="$classEthMacRxImportGmii.html" title="EthMacRxImportGmii" alt="" coords="360,157,509,184"/>
 <area shape="rect" id="node20" href="$classEthMacRxImportXgmii.html" title="EthMacRxImportXgmii" alt="" coords="357,208,512,235"/>
-<area shape="rect" id="node21" href="$classEthMacTxCsum.html" title="EthMacTxCsum" alt="" coords="609,259,727,285"/>
+<area shape="rect" id="node21" href="$classEthMacTxCsum.html" title="entity &#160;EthMacCore " alt="" coords="609,259,727,285"/>
 <area shape="rect" id="node23" href="$classEthMacTxExportGmii.html" title="EthMacTxExportGmii" alt="" coords="361,309,509,336"/>
 <area shape="rect" id="node25" href="$classEthMacTxExportXgmii.html" title="EthMacTxExportXgmii" alt="" coords="358,360,511,387"/>
 <area shape="rect" id="node26" href="$classEthMacTxFifo.html" title="EthMacTxFifo" alt="" coords="833,373,937,400"/>

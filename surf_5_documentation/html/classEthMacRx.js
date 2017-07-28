@@ -1,6 +1,6 @@
 var classEthMacRx =
 [
-    [ "EthMacRx.mapping", "classEthMacRx_1_1mapping.html", "classEthMacRx_1_1mapping" ],
+    [ "mapping", "classEthMacRx_1_1mapping.html", "classEthMacRx_1_1mapping" ],
     [ "TPD_G", "classEthMacRx.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "PAUSE_EN_G", "classEthMacRx.html#a3523b0b120676ac086f277320024a115", null ],
     [ "PHY_TYPE_G", "classEthMacRx.html#a19dc942c6cdea9502f239c68a1c58b49", null ],

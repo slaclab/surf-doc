@@ -34,7 +34,7 @@
 <area shape="rect" id="node32" href="$classAxiLiteRingBuffer.html" title="AxiLiteRingBuffer" alt="" coords="601,917,727,944"/>
 <area shape="rect" id="node33" href="$classAxiLtc2270Deser.html" title="AxiLtc2270Deser" alt="" coords="602,968,726,995"/>
 <area shape="rect" id="node34" href="$classAxiLtc2270Reg.html" title="AxiLtc2270Reg" alt="" coords="608,1019,720,1045"/>
-<area shape="rect" id="node35" href="$classAxiMemTester.html" title="AxiMemTester" alt="" coords="610,1069,718,1096"/>
+<area shape="rect" id="node35" href="$classAxiMemTester.html" title="entity &#160;axi " alt="" coords="610,1069,718,1096"/>
 <area shape="rect" id="node36" href="$classAxiStreamMon.html" title="AxiStreamMon" alt="" coords="609,1171,719,1197"/>
 <area shape="rect" id="node39" href="$classGLinkGtp7FixedLat.html" title="GLinkGtp7FixedLat" alt="" coords="595,1221,733,1248"/>
 <area shape="rect" id="node40" href="$classGLinkGtx7FixedLat.html" title="GLinkGtx7FixedLat" alt="" coords="596,461,732,488"/>
@@ -45,6 +45,6 @@
 <area shape="rect" id="node45" href="$classSlvArraytoAxiLite.html" title="SlvArraytoAxiLite" alt="" coords="602,664,726,691"/>
 <area shape="rect" id="node38" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="1005,1171,1133,1197"/>
 <area shape="rect" id="node47" href="$classAxiStreamDmaWrite.html" title="AxiStreamDmaWrite" alt="" coords="387,1500,530,1527"/>
-<area shape="rect" id="node48" href="$classEthMacTxCsum.html" title="EthMacTxCsum" alt="" coords="400,1551,517,1577"/>
+<area shape="rect" id="node48" href="$classEthMacTxCsum.html" title="entity &#160;EthMacCore " alt="" coords="400,1551,517,1577"/>
 <area shape="rect" id="node49" href="$classJesdRxLane.html" title="JesdRxLane" alt="" coords="411,1601,507,1628"/>
 </map>

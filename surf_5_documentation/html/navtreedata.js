@@ -1,6 +1,8 @@
 var NAVTREE =
 [
   [ "SURF", "index.html", [
+    [ "surf_5", "index.html", null ],
+    [ "Modules", "modules.html", "modules" ],
     [ "Packages", null, [
       [ "Packages", "namespaces.html", "namespaces" ]
     ] ],
@@ -82,8 +84,9 @@ var NAVTREEINDEX =
 "classUdpEngineRx.html#a08d6a4404627f5faba08da8401efa477",
 "classXauiGth7.html#a67a837684e4f18c2d236ac1d053b419b",
 "classXauiGtx7.html",
-"classi2c__master__bit__ctrl_1_1structural.html#ac495c1607d699ae3e12d242eba3508cf",
-"functions_func_m.html"
+"classi2c__master__bit__ctrl_1_1structural.html#ac7d7df4ec93b07f5b52e57779dab9838",
+"functions_func_o.html",
+"namespaces.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

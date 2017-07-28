@@ -1,6 +1,6 @@
 var classFifoCascade =
 [
-    [ "FifoCascade.mapping", "classFifoCascade_1_1mapping.html", "classFifoCascade_1_1mapping" ],
+    [ "mapping", "classFifoCascade_1_1mapping.html", "classFifoCascade_1_1mapping" ],
     [ "TPD_G", "classFifoCascade.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "CASCADE_SIZE_G", "classFifoCascade.html#a24fa51d1acdad2c64854f911eb24df97", null ],
     [ "LAST_STAGE_ASYNC_G", "classFifoCascade.html#ae7095f4ff69cac6c7c336f2240117381", null ],

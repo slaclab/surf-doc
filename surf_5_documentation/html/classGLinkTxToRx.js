@@ -1,6 +1,6 @@
 var classGLinkTxToRx =
 [
-    [ "GLinkTxToRx.mapping", "classGLinkTxToRx_1_1mapping.html", "classGLinkTxToRx_1_1mapping" ],
+    [ "mapping", "classGLinkTxToRx_1_1mapping.html", "classGLinkTxToRx_1_1mapping" ],
     [ "TPD_G", "classGLinkTxToRx.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "RST_ASYNC_G", "classGLinkTxToRx.html#a123a3d9a6e9648e763d21c0281ee7ecd", null ],
     [ "RST_POLARITY_G", "classGLinkTxToRx.html#a8a9f56ec06b173cf46dc7160fd7c1f30", null ],

@@ -1,6 +1,6 @@
 var classGth7AutoPhaseAligner =
 [
-    [ "Gth7AutoPhaseAligner.RTL", "classGth7AutoPhaseAligner_1_1RTL.html", "classGth7AutoPhaseAligner_1_1RTL" ],
+    [ "RTL", "classGth7AutoPhaseAligner_1_1RTL.html", "classGth7AutoPhaseAligner_1_1RTL" ],
     [ "GT_TYPE", "classGth7AutoPhaseAligner.html#a631aa6477fc5adfd3cba528cddf4e3aa", null ],
     [ "STABLE_CLOCK", "classGth7AutoPhaseAligner.html#abb8e1d1ee9a06d80c19d9ce95cde2c8f", null ],
     [ "RUN_PHALIGNMENT", "classGth7AutoPhaseAligner.html#ade22a6b2bc1026f6e0ce3a214990512c", null ],

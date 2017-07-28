@@ -1,6 +1,6 @@
 var classAxiSy56040Core =
 [
-    [ "AxiSy56040Core.mapping", "classAxiSy56040Core_1_1mapping.html", "classAxiSy56040Core_1_1mapping" ],
+    [ "mapping", "classAxiSy56040Core_1_1mapping.html", "classAxiSy56040Core_1_1mapping" ],
     [ "TPD_G", "classAxiSy56040Core.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "AXI_CLK_FREQ_G", "classAxiSy56040Core.html#a82571368c463a52e90b4676481bb0826", null ],
     [ "XBAR_DEFAULT_G", "classAxiSy56040Core.html#a86ca7c68cd31d2a83c45e3a2de3d45ee", null ],

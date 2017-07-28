@@ -1,6 +1,6 @@
 var classGigEthGth7 =
 [
-    [ "GigEthGth7.mapping", "classGigEthGth7_1_1mapping.html", "classGigEthGth7_1_1mapping" ],
+    [ "mapping", "classGigEthGth7_1_1mapping.html", "classGigEthGth7_1_1mapping" ],
     [ "TPD_G", "classGigEthGth7.html#a67a837684e4f18c2d236ac1d053b419b", null ],
     [ "EN_AXI_REG_G", "classGigEthGth7.html#aaa0b8676b87db73331ef9162511e97fa", null ],
     [ "AXI_ERROR_RESP_G", "classGigEthGth7.html#ac8b54f80e6da989e756747f02f793b57", null ],
