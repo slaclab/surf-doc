@@ -1,0 +1,7 @@
+<map id="UartRx" name="UartRx">
+<area shape="rect" id="node4" href="$classUartWrapper.html" title="UartWrapper" alt="" coords="83,229,181,256"/>
+<area shape="rect" id="node2" href="$classSynchronizerEdge.html" title="SynchronizerEdge" alt="" coords="67,80,197,107"/>
+<area shape="rect" id="node3" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="82,5,181,32"/>
+<area shape="rect" id="node5" href="$classUartAxiLiteMaster.html" title="UartAxiLiteMaster" alt="" coords="5,304,133,331"/>
+<area shape="rect" id="node6" href="$classUartSem.html" title="UartSem" alt="" coords="157,304,232,331"/>
+</map>

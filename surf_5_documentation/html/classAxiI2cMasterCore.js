@@ -1,0 +1,25 @@
+var classAxiI2cMasterCore =
+[
+    [ "AxiI2cMasterCore.mapping", "classAxiI2cMasterCore_1_1mapping.html", "classAxiI2cMasterCore_1_1mapping" ],
+    [ "TPD_G", "classAxiI2cMasterCore.html#a67a837684e4f18c2d236ac1d053b419b", null ],
+    [ "DEVICE_MAP_G", "classAxiI2cMasterCore.html#ae608c60095f847676a3b9aa5d883287c", null ],
+    [ "AXI_CLK_FREQ_G", "classAxiI2cMasterCore.html#a82571368c463a52e90b4676481bb0826", null ],
+    [ "I2C_SCL_FREQ_G", "classAxiI2cMasterCore.html#a67315ea2dece0a3d7cbdd3b307f1647d", null ],
+    [ "I2C_MIN_PULSE_G", "classAxiI2cMasterCore.html#aa93dd372e172883312e7aba72e530921", null ],
+    [ "AXI_ERROR_RESP_G", "classAxiI2cMasterCore.html#ac8b54f80e6da989e756747f02f793b57", null ],
+    [ "i2cInOut", "classAxiI2cMasterCore.html#ac3c8808db852b0e67a355a2cf4936459", null ],
+    [ "axiReadMaster", "classAxiI2cMasterCore.html#ac847742920ba32301ddc91cf13d6f5fe", null ],
+    [ "axiReadSlave", "classAxiI2cMasterCore.html#af5301f308dc850ff6d3b80315d2e644c", null ],
+    [ "axiWriteMaster", "classAxiI2cMasterCore.html#abf08eac4311749af56c8ec14b1903091", null ],
+    [ "axiWriteSlave", "classAxiI2cMasterCore.html#a0eb32e5fab67488b94fb47c9fe42e97f", null ],
+    [ "axiClk", "classAxiI2cMasterCore.html#a7d8781c632c75ab0fdde6e592fd13d60", null ],
+    [ "axiRst", "classAxiI2cMasterCore.html#a399a775bae9ae4819d5af6838a95e28e", null ],
+    [ "ieee", "classAxiI2cMasterCore.html#a0a6af6eef40212dbaf130d57ce711256", null ],
+    [ "std_logic_1164", "classAxiI2cMasterCore.html#acd03516902501cd1c7296a98e22c6fcb", null ],
+    [ "StdRtlPkg", "classAxiI2cMasterCore.html#af2fe75efbe0a68c3fb806bb88b1a81ba", null ],
+    [ "AxiLitePkg", "classAxiI2cMasterCore.html#af98a1f0df20cf0e5f0fdb9f5999ad782", null ],
+    [ "I2cPkg", "classAxiI2cMasterCore.html#a3345a70e845069bf678d5aa1733529b6", null ],
+    [ "AxiI2cMasterPkg", "classAxiI2cMasterCore.html#a0ea94aa2e30433c83817f9c65a3000b7", null ],
+    [ "unisim", "classAxiI2cMasterCore.html#a962f1c6a2adaac3e10a6f7fa3d111e01", null ],
+    [ "vcomponents", "classAxiI2cMasterCore.html#aa1cb22e959d47364391e5eb4ef86927c", null ]
+];
