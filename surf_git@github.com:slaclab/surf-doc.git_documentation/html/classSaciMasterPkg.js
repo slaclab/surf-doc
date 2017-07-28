@@ -1,0 +1,25 @@
+var classSaciMasterPkg =
+[
+    [ "IEEE", "classSaciMasterPkg.html#ae4f03c286607f3181e16b9aa12d0c6d4", null ],
+    [ "std_logic_1164", "classSaciMasterPkg.html#acd03516902501cd1c7296a98e22c6fcb", null ],
+    [ "numeric_std", "classSaciMasterPkg.html#a2edc34402b573437d5f25fa90ba4013e", null ],
+    [ "StdRtlPkg", "classSaciMasterPkg.html#af2fe75efbe0a68c3fb806bb88b1a81ba", null ],
+    [ "SACI_WRITE_C", "classSaciMasterPkg.html#a0f2ee1c146bc408bb081e66e37fe6348", null ],
+    [ "SACI_READ_C", "classSaciMasterPkg.html#a896cbd924d203de71929e981cb36394a", null ],
+    [ "SACI_NUM_SLAVES_C", "classSaciMasterPkg.html#a78e18087d9dbeea16f65c099fd16e9c0", null ],
+    [ "SACI_CHIP_WIDTH_C", "classSaciMasterPkg.html#a133aea668014dc08c450e2a540137340", null ],
+    [ "SaciMasterInType", "classSaciMasterPkg.html#a0b28a8fd989f23a90ee83713a1d89381", null ],
+    [ "req", "classSaciMasterPkg.html#af71d7112d60f6bcdff41286935d69c2c", null ],
+    [ "reset", "classSaciMasterPkg.html#a35d954cd6285a389db999e64b64f9965", null ],
+    [ "chip", "classSaciMasterPkg.html#aa38e2aee46262fcca82584badab837c2", null ],
+    [ "op", "classSaciMasterPkg.html#a966f37b1f8a54dea14da0c3617a8487d", null ],
+    [ "cmd", "classSaciMasterPkg.html#ad3af299557a0138622426c3dd59621d7", null ],
+    [ "addr", "classSaciMasterPkg.html#adc530723410a2bf93f20caf0f229e84e", null ],
+    [ "wrData", "classSaciMasterPkg.html#a21cdbd35c70ba5bd066b7dd3cb02b4ae", null ],
+    [ "SaciMasterOutType", "classSaciMasterPkg.html#a2589f06bef35e56000391fb22e5a2d1d", null ],
+    [ "ack", "classSaciMasterPkg.html#a6fb5bf3dc82bf6fcb25c9167c39f22fe", null ],
+    [ "fail", "classSaciMasterPkg.html#ad440c836bb8fa8c08132647c66315e08", null ],
+    [ "rdData", "classSaciMasterPkg.html#aebcd27f9aa7e53aa39c57527c92feddd", null ],
+    [ "SACI_MASTER_IN_INIT_C", "classSaciMasterPkg.html#a902d538952abfcc8b52eae8fc2e99c52", null ],
+    [ "SACI_MASTER_OUT_INIT_C", "classSaciMasterPkg.html#a106dd864892419473e4ab82f2361b532", null ]
+];

@@ -1,0 +1,34 @@
+<map id="RssiCore" name="RssiCore">
+<area shape="rect" id="node33" href="$classRssiCoreWrapper.html" title="RssiCoreWrapper" alt="" coords="1253,335,1381,361"/>
+<area shape="rect" id="node2" href="$classRssiAxiLiteRegItf.html" title="RssiAxiLiteRegItf" alt="" coords="761,56,885,83"/>
+<area shape="rect" id="node3" href="$classSynchronizerFifo.html" title="SynchronizerFifo(16)" alt="" coords="558,56,703,83"/>
+<area shape="rect" id="node4" href="$classFifoAsync.html" title="FifoAsync" alt="" coords="393,107,473,133"/>
+<area shape="rect" id="node14" href="$classFifo.html" title="Fifo(4)" alt="" coords="601,208,661,235"/>
+<area shape="rect" id="node31" href="$classSynchronizerFifo.html" title="SynchronizerFifo(4)" alt="" coords="561,157,700,184"/>
+<area shape="rect" id="node32" href="$classSynchronizerFifo.html" title="SynchronizerFifo(3)" alt="" coords="561,107,700,133"/>
+<area shape="rect" id="node5" href="$classRstSync.html" title="RstSync(2)" alt="" coords="188,107,276,133"/>
+<area shape="rect" id="node16" href="$classFifoSyncBuiltIn.html" title="FifoSyncBuiltIn" alt="" coords="378,208,489,235"/>
+<area shape="rect" id="node6" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="6,309,106,336"/>
+<area shape="rect" id="node11" href="$classAxiStreamFifoV2.html" title="AxiStreamFifoV2(4)" alt="" coords="941,233,1080,260"/>
+<area shape="rect" id="node17" href="$classSynchronizerEdge.html" title="SynchronizerEdge" alt="" coords="167,309,297,336"/>
+<area shape="rect" id="node19" href="$classRstSync.html" title="RstSync(4)" alt="" coords="188,259,276,285"/>
+<area shape="rect" id="node30" href="$classRstSync.html" title="RstSync" alt="" coords="196,360,268,387"/>
+<area shape="rect" id="node7" href="$classFifoOutputPipeline.html" title="FifoOutputPipeline" alt="" coords="166,208,298,235"/>
+<area shape="rect" id="node15" href="$classFifoSync.html" title="FifoSync" alt="" coords="397,157,470,184"/>
+<area shape="rect" id="node18" href="$classFifoAsyncBuiltIn.html" title="FifoAsyncBuiltIn" alt="" coords="375,259,492,285"/>
+<area shape="rect" id="node8" href="$classSynchronizerVector.html" title="SynchronizerVector(2)" alt="" coords="155,157,309,184"/>
+<area shape="rect" id="node9" href="$classSynchronizer.html" title="Synchronizer(2)" alt="" coords="174,5,290,32"/>
+<area shape="rect" id="node10" href="$classSimpleDualPortRam.html" title="SimpleDualPortRam" alt="" coords="161,56,303,83"/>
+<area shape="rect" id="node12" href="$classAxiStreamResize.html" title="AxiStreamResize(2)" alt="" coords="753,259,893,285"/>
+<area shape="rect" id="node13" href="$classFifoCascade.html" title="FifoCascade(2)" alt="" coords="766,208,879,235"/>
+<area shape="rect" id="node29" href="$classSynchronizerOneShot.html" title="SynchronizerOneShot" alt="" coords="357,309,509,336"/>
+<area shape="rect" id="node20" href="$classAxiStreamPipeline.html" title="AxiStreamPipeline" alt="" coords="757,309,888,336"/>
+<area shape="rect" id="node21" href="$classConnFSM.html" title="ConnFSM" alt="" coords="969,284,1052,311"/>
+<area shape="rect" id="node22" href="$classMonitor.html" title="Monitor" alt="" coords="977,335,1044,361"/>
+<area shape="rect" id="node23" href="$classHeaderReg.html" title="HeaderReg" alt="" coords="965,385,1056,412"/>
+<area shape="rect" id="node24" href="$classTxFSM.html" title="TxFSM" alt="" coords="978,436,1043,463"/>
+<area shape="rect" id="node25" href="$classChksum.html" title="Chksum(2)" alt="" coords="967,487,1054,513"/>
+<area shape="rect" id="node26" href="$classRxFSM.html" title="RxFSM" alt="" coords="977,537,1044,564"/>
+<area shape="rect" id="node27" href="$classAxiStreamMon.html" title="AxiStreamMon" alt="" coords="956,157,1065,184"/>
+<area shape="rect" id="node28" href="$classSyncTrigRate.html" title="SyncTrigRate" alt="" coords="771,157,874,184"/>
+</map>
