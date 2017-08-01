@@ -9,10 +9,13 @@ import xml.etree.ElementTree as ET
 #
 #Command Line ARguments: 1: startpath where library and documentation is housed
 
+if len(sys.argv) < 3:
+       print("Usage: python create_groups.py REPO_NAME XML_PATH\n")
+       sys.exit(1)
 
-startpath = sys.argv[1]
+repository_name = sys.argv[1]
 xml_path = sys.argv[2]
-repository_name = os.path.basename(startpath)
+startpath = os.path.dirname(xml_path)
 
 modules = []		 #list of modules (strings)
 pkgs = []			 #list of packages
@@ -36,10 +39,10 @@ try:
 	root = tree.getroot()
 
 except (IOError, ET.ParseError):
-	print "Error: Failed to open or parse file all.xml\n"
+	print("Error: Failed to open or parse file all.xml\n")
 
 else:
-	print "Generating graphs...\n"
+	print("Generating graphs...\n")
 
 	def check_groups(root):
 	#function to recursively check if a group contains an rtl folder
@@ -199,7 +202,7 @@ else:
 		main_page = open("doc/mainpage.txt", 'w')
 
 	except IOError:
-		print "Error: File mainpage does not appear to exist.\n"
+		print("Error: File mainpage does not appear to exist.\n")
 
 	else:	
 		#open mainpage.txt
@@ -378,7 +381,7 @@ else:
 				module_lines = module_graph.readlines()
 				module_graph.close()
 			except IOError:
-				print "Error: Graphs directory does not appear to exist.\n"
+				print("Error: Graphs directory does not appear to exist.\n")
 
 			else:
 
@@ -447,7 +450,7 @@ else:
 			pkg_graph.write("\dot \ndigraph G{ \nnode [shape=record, fontname=Helvetica, fontsize=10];\n")
 			pkg_graph.write('label={}; \n{}[label="{}" URL="\\ref {}.vhd"];\n'.format(pkg, pkg, pkg, pkg))
 		except IOError:
-			print "Graphs directory does not appear to exist.\n"
+			print("Graphs directory does not appear to exist.\n")
 
 		else:
 			#only create inheritance if inherited file exists
