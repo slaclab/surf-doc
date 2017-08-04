@@ -1,7 +1,0 @@
-<map id="Gtp16FixedLatCore" name="Gtp16FixedLatCore">
-<area shape="rect" id="node2" href="$classRstSync.html" title="RstSync" alt="" coords="19,80,91,107"/>
-<area shape="rect" id="node3" href="$classSynchronizer.html" title="Synchronizer" alt="" coords="5,5,104,32"/>
-<area shape="rect" id="node4" href="$classGtpRxCommaAligner.html" title="GtpRxCommaAligner" alt="" coords="115,80,263,107"/>
-<area shape="rect" id="node5" href="$classDecoder8b10b.html" title="Decoder8b10b" alt="" coords="288,80,397,107"/>
-<area shape="rect" id="node6" href="$classGtpTxPhaseAligner.html" title="GtpTxPhaseAligner" alt="" coords="422,80,559,107"/>
-</map>

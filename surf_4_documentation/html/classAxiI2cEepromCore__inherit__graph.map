@@ -1,7 +1,0 @@
-<map id="AxiI2cEepromCore" name="AxiI2cEepromCore">
-<area shape="rect" id="node6" href="$classAxiI2cEeprom.html" title="AxiI2cEeprom" alt="" coords="25,379,129,405"/>
-<area shape="rect" id="node2" href="$classI2cRegMaster.html" title="I2cRegMaster" alt="" coords="25,229,129,256"/>
-<area shape="rect" id="node3" href="$classI2cMaster.html" title="I2cMaster" alt="" coords="37,155,117,181"/>
-<area shape="rect" id="node4" href="$classi2c__master__byte__ctrl.html" title="i2c_master_byte_ctrl" alt="" coords="5,80,149,107"/>
-<area shape="rect" id="node5" href="$classi2c__master__bit__ctrl.html" title="i2c_master_bit_ctrl" alt="" coords="11,5,144,32"/>
-</map>

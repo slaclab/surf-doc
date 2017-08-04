@@ -1,6 +1,0 @@
-<map id="transceivers" name="transceivers">
-<area shape="rect" id="node1" href="$group__devices.html" title="The devices page. " alt="" coords="5,56,72,83"/>
-<area shape="rect" id="node2" href="$group__devices__transceivers__sfp.html" title="The devices_transceivers_sfp page. " alt="" coords="265,5,305,32"/>
-<area shape="rect" id="node4" href="$group__devices__transceivers__qsfp.html" title="The devices_transceivers_qsfp page. " alt="" coords="262,56,309,83"/>
-<area shape="rect" id="node5" href="$group__devices__transceivers__cxp.html" title="The devices_transceivers_cxp page. " alt="" coords="264,107,307,133"/>
-</map>

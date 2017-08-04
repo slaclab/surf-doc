@@ -1,6 +1,0 @@
-<map id="base" name="base">
-<area shape="rect" id="node1" href="$group__base__ram.html" title="The base_ram page. " alt="" coords="115,5,160,32"/>
-<area shape="rect" id="node2" href="$group__base__sync.html" title="The base_sync page. " alt="" coords="113,56,162,83"/>
-<area shape="rect" id="node4" href="$group__base__general.html" title="The base_general page. " alt="" coords="104,107,171,133"/>
-<area shape="rect" id="node5" href="$group__base__fifo.html" title="The base_fifo page. " alt="" coords="117,157,157,184"/>
-</map>
